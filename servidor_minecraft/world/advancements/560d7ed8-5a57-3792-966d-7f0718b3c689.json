@@ -5361,6 +5361,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-05-24 03:20:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-05-24 02:56:02 +0000"
@@ -5400,6 +5406,12 @@
   "decoration_delight:trash_bin_advancement": {
     "criteria": {
       "trash_bin_advancement": "2025-05-24 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-05-24 03:20:25 +0000"
     },
     "done": true
   },
