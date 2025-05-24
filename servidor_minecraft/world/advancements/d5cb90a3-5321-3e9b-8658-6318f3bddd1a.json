@@ -404,6 +404,7 @@
       "minecraft:grove": "2025-05-23 06:36:08 +0000",
       "minecraft:cold_ocean": "2025-05-23 06:16:41 +0000",
       "minecraft:forest": "2025-05-23 05:05:08 +0000",
+      "minecraft:lush_caves": "2025-05-24 04:58:54 +0000",
       "minecraft:deep_cold_ocean": "2025-05-23 06:18:12 +0000",
       "minecraft:ocean": "2025-05-23 05:19:18 +0000",
       "minecraft:frozen_peaks": "2025-05-23 06:35:30 +0000",
@@ -6465,78 +6466,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "spartanweaponry:quarterstaff": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-24 04:32:24 +0000",
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
+      "has_quarterstaff": "2025-05-24 04:10:31 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
+      "coded_trigger": "2025-05-24 04:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "tombstone:adventure/funeral_theft": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
+      "coded_trigger": "2025-05-24 04:18:52 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 04:32:19 +0000"
-    },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
@@ -6553,18 +6499,6 @@
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-05-24 04:21:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-24 04:14:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-05-24 04:18:52 +0000"
     },
     "done": true
   },
@@ -6586,15 +6520,111 @@
     },
     "done": true
   },
-  "spartanweaponry:quarterstaff": {
-    "criteria": {
-      "has_quarterstaff": "2025-05-24 04:10:31 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:boomerang": {
     "criteria": {
       "has_boomerang": "2025-05-24 04:29:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-05-24 05:01:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-05-24 05:01:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-05-24 05:01:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-24 05:01:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-05-24 05:01:30 +0000"
     },
     "done": true
   },

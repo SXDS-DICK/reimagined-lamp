@@ -2551,3 +2551,77 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 04:39:12.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
 [24May2025 04:39:16.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
 [24May2025 04:39:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:43:33.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: You logged in from another location
+[24May2025 04:43:33.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[24May2025 04:43:33.071] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[24May2025 04:43:33.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.140.56.52:35659] logged in with entity id 74767 at (4152.111551988699, 13.0, 3266.5149811485503)
+[24May2025 04:43:33.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[24May2025 04:43:33.160] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[24May2025 04:43:33.529] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[24May2025 04:43:33.530] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[24May2025 04:45:52.286] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24May2025 04:47:00.133] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24May2025 04:47:07.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Fire Dragon
+[24May2025 04:47:07.549] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:47:19.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR was kicked for floating too long!
+[24May2025 04:47:19.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Flying is not enabled on this server
+[24May2025 04:47:19.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[24May2025 04:47:19.479] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[24May2025 04:47:30.316] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@282d506c[id=<null>,name=AronTR,properties={},legacy=false] (/127.140.56.52:51667) lost connection: Disconnected
+[24May2025 04:47:36.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.140.56.52:57027] logged in with entity id 76045 at (4067.000625286354, -9.12211221746874, 3213.49005942104)
+[24May2025 04:47:36.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[24May2025 04:47:36.639] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[24May2025 04:47:37.128] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[24May2025 04:47:37.128] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[24May2025 04:48:05.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR burned to death
+[24May2025 04:48:05.427] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:49:17.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Mother of Dragons]
+[24May2025 04:53:38.621] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24May2025 04:55:15.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Bone Crusher]
+[24May2025 04:56:13.580] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:56:17.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR suffocated in a wall whilst fighting Fire Dragon
+[24May2025 04:56:17.024] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:56:18.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:56521] logged in with entity id 79194 at (-599.4734509518559, 82.0, 5638.019057979961)
+[24May2025 04:56:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[24May2025 04:56:18.116] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[24May2025 04:56:18.426] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[24May2025 04:56:18.426] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
+[24May2025 04:57:18.653] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[24May2025 04:57:18.654] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[24May2025 04:57:25.499] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/80320, l='ServerLevel[world]', x=-533.50, y=22.00, z=5981.50] as it would cause deadlock
+[24May2025 04:57:27.546] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/80383, l='ServerLevel[world]', x=-533.50, y=22.00, z=5989.50] as it would cause deadlock
+[24May2025 04:57:35.007] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/80567, l='ServerLevel[world]', x=-414.50, y=22.00, z=5980.50] as it would cause deadlock
+[24May2025 04:57:47.838] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/80792, l='ServerLevel[world]', x=-487.50, y=-41.00, z=6022.50] as it would cause deadlock
+[24May2025 04:57:47.839] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/80794, l='ServerLevel[world]', x=-487.50, y=-28.00, z=6023.50] as it would cause deadlock
+[24May2025 04:57:47.905] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/80803, l='ServerLevel[world]', x=-471.50, y=-28.00, z=6023.50] as it would cause deadlock
+[24May2025 04:58:15.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR burned to death
+[24May2025 04:58:15.336] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:58:28.681] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/81638, l='ServerLevel[world]', x=-459.50, y=22.00, z=6045.50] as it would cause deadlock
+[24May2025 04:58:28.682] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/81640, l='ServerLevel[world]', x=-451.50, y=22.00, z=6045.50] as it would cause deadlock
+[24May2025 04:59:15.743] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24May2025 04:59:16.170] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82115, l='ServerLevel[world]', x=-518.50, y=-53.00, z=6060.50] as it would cause deadlock
+[24May2025 04:59:22.931] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82240, l='ServerLevel[world]', x=-518.50, y=-53.00, z=6068.50] as it would cause deadlock
+[24May2025 04:59:22.944] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82243, l='ServerLevel[world]', x=-517.50, y=22.00, z=6070.50] as it would cause deadlock
+[24May2025 04:59:22.945] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82245, l='ServerLevel[world]', x=-517.50, y=22.00, z=6078.50] as it would cause deadlock
+[24May2025 04:59:23.382] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/82281, l='ServerLevel[world]', x=-456.50, y=22.00, z=6079.50] as it would cause deadlock
+[24May2025 04:59:26.823] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82413, l='ServerLevel[world]', x=-521.50, y=-28.00, z=6084.50] as it would cause deadlock
+[24May2025 04:59:26.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/82419, l='ServerLevel[world]', x=-492.50, y=-53.00, z=6064.50]
+[24May2025 04:59:26.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Zombie['Zombie'/82420, l='ServerLevel[world]', x=-493.50, y=22.00, z=6074.50]
+[24May2025 04:59:26.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/82421, l='ServerLevel[world]', x=-482.63, y=82.00, z=6072.72]
+[24May2025 04:59:26.847] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/82427, l='ServerLevel[world]', x=-532.50, y=-28.00, z=6084.50] as it would cause deadlock
+[24May2025 04:59:29.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/82541, l='ServerLevel[world]', x=-488.50, y=22.00, z=6080.50]
+[24May2025 04:59:29.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/82542, l='ServerLevel[world]', x=-488.63, y=82.00, z=6089.72]
+[24May2025 04:59:34.928] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/82681, l='ServerLevel[world]', x=-551.50, y=-28.00, z=6122.50] as it would cause deadlock
+[24May2025 04:59:34.939] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82683, l='ServerLevel[world]', x=-547.50, y=16.00, z=6127.50] as it would cause deadlock
+[24May2025 04:59:37.342] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82806, l='ServerLevel[world]', x=-551.50, y=-28.00, z=6130.50] as it would cause deadlock
+[24May2025 04:59:37.668] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82811, l='ServerLevel[world]', x=-403.50, y=-28.00, z=6143.50] as it would cause deadlock
+[24May2025 04:59:37.793] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/82830, l='ServerLevel[world]', x=-395.50, y=-28.00, z=6143.50] as it would cause deadlock
+[24May2025 05:01:00.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Timed out
+[24May2025 05:01:00.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[24May2025 05:01:00.702] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[24May2025 05:02:00.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[24May2025 05:02:00.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[24May2025 05:02:00.775] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[24May2025 05:02:17.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Disconnected
+[24May2025 05:02:17.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[24May2025 05:02:17.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR

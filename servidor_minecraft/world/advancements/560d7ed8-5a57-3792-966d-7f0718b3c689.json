@@ -5949,6 +5949,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/decorations/tables/scorched_forge": {
     "criteria": {
       "has_item": "2025-05-24 04:25:53 +0000"
@@ -5966,6 +5972,12 @@
       "crafted_cast": "2025-05-24 04:28:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
   },
   "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
@@ -6003,6 +6015,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/armor_sapphire_chestplate": {
     "criteria": {
       "has_item": "2025-05-24 04:16:31 +0000"
@@ -6020,6 +6038,24 @@
       "lava_bucket": "2025-05-24 04:24:19 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/decorations/tables/crafting_station": {
     "criteria": {
@@ -6050,6 +6086,12 @@
       "has_item": "2025-05-24 04:25:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/misc/smeltery/red_sand_cast": {
     "criteria": {
@@ -6091,6 +6133,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/misc/smeltery/sand_cast": {
     "criteria": {
       "has_casting": "2025-05-24 04:25:16 +0000"
@@ -6109,6 +6157,25 @@
     },
     "done": true
   },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-05-24 04:43:52 +0000",
+      "hand_axe": "2025-05-24 04:43:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
+  },
   "tconstruct:smeltery/structure": {
     "criteria": {
       "open_smeltery": "2025-05-24 04:23:32 +0000"
@@ -6121,6 +6188,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
     "criteria": {
       "has_dragonscale_sapphire": "2025-05-24 04:18:29 +0000"
@@ -6132,6 +6205,12 @@
       "crafted_block": "2025-05-24 04:26:48 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/decorations/tables/tinkers_forge": {
     "criteria": {
