@@ -601,3 +601,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 03:10:00.362] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/7455, l='ServerLevel[world]', x=224.50, y=-53.00, z=-194.50] as it would cause deadlock
 [24May2025 03:10:00.381] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/7457, l='ServerLevel[world]', x=234.50, y=22.00, z=-206.50] as it would cause deadlock
 [24May2025 03:10:09.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has reached the goal [To be or not to be]
+[24May2025 03:10:41.555] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/8104, l='ServerLevel[world]', x=220.50, y=-53.00, z=-285.50] as it would cause deadlock
+[24May2025 03:10:41.584] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/8109, l='ServerLevel[world]', x=228.50, y=-53.00, z=-285.50] as it would cause deadlock
+[24May2025 03:10:41.660] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/8119, l='ServerLevel[world]', x=286.50, y=22.00, z=-276.50] as it would cause deadlock
+[24May2025 03:10:49.612] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Spider['Spider'/8220, l='ServerLevel[world]', x=228.50, y=-53.00, z=-285.50]
+[24May2025 03:10:49.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/8221, l='ServerLevel[world]', x=228.50, y=-52.00, z=-285.50]
+[24May2025 03:10:49.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/8222, l='ServerLevel[world]', x=227.50, y=-16.00, z=-272.50]
+[24May2025 03:10:49.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['Armor Stand'/8223, l='ServerLevel[world]', x=225.50, y=-29.00, z=-278.50]
+[24May2025 03:10:49.614] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['Armor Stand'/8224, l='ServerLevel[world]', x=238.50, y=21.00, z=-285.50]
+[24May2025 03:11:04.061] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/8455, l='ServerLevel[world]', x=208.50, y=22.00, z=-305.50] as it would cause deadlock
+[24May2025 03:11:04.062] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/8457, l='ServerLevel[world]', x=216.50, y=22.00, z=-305.50] as it would cause deadlock
+[24May2025 03:11:04.200] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/8465, l='ServerLevel[world]', x=276.50, y=22.00, z=-312.50] as it would cause deadlock
+[24May2025 03:11:04.201] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/8467, l='ServerLevel[world]', x=276.50, y=22.00, z=-304.50] as it would cause deadlock
+[24May2025 03:11:29.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Suit Up]
+[24May2025 03:11:34.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [A Strange Grave Dust]
+[24May2025 03:11:45.731] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24May2025 03:14:06.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 03:14:40.903] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10527, l='ServerLevel[world]', x=637.50, y=-53.00, z=239.50] as it would cause deadlock
+[24May2025 03:14:51.058] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10587, l='ServerLevel[world]', x=638.50, y=-53.00, z=243.50] as it would cause deadlock
+[24May2025 03:15:20.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Acquire Hardware]
+[24May2025 03:16:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has completed the challenge [It Spreads]
+[24May2025 03:17:07.748] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11996, l='ServerLevel[world]', x=775.50, y=-53.00, z=156.50] as it would cause deadlock
+[24May2025 03:17:07.835] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11998, l='ServerLevel[world]', x=775.50, y=-53.00, z=164.50] as it would cause deadlock
+[24May2025 03:17:08.163] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12011, l='ServerLevel[world]', x=783.50, y=-53.00, z=87.50] as it would cause deadlock
+[24May2025 03:17:19.439] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12108, l='ServerLevel[world]', x=783.50, y=-53.00, z=79.50] as it would cause deadlock
+[24May2025 03:17:22.094] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12178, l='ServerLevel[world]', x=812.50, y=-53.00, z=77.50] as it would cause deadlock
+[24May2025 03:17:23.937] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24May2025 03:18:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> rodolfo
+[24May2025 03:18:42.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q fue
+[24May2025 03:18:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tpea
+[24May2025 03:18:49.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tú a mí?
+[24May2025 03:18:57.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si
+[24May2025 03:19:09.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 03:19:18.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 03:19:32.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported Jorgepwe to ChupetinXD]
+[24May2025 03:19:52.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> c me rompió la wbd XDDD
+[24May2025 03:20:17.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q conseguiste
