@@ -6292,5 +6292,47 @@
     },
     "done": true
   },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-05-24 16:37:02 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-05-24 17:15:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-24 17:17:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-05-24 17:15:51 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-05-24 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-05-24 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-05-24 17:16:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
