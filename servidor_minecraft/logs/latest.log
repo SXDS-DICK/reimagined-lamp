@@ -1769,3 +1769,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 17:16:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [First big catch of the month!]
 [24May2025 17:17:18.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Fighting Nightmares]
 [24May2025 17:23:56.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Good Demoman]
+[24May2025 17:33:02.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74b43682[id=<null>,name=J4lewsus_bt,properties={},legacy=false] (/127.156.108.63:45221) lost connection: Disconnected
+[24May2025 17:34:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]

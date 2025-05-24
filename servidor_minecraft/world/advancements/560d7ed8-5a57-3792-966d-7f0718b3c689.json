@@ -6310,6 +6310,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-05-24 17:23:56 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-05-24 17:15:51 +0000"
