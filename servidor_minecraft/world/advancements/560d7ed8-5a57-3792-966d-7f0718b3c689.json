@@ -5343,33 +5343,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-05-24 03:09:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-05-24 02:47:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-05-24 02:57:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice_from_bag": {
-    "criteria": {
-      "has_rice_bag": "2025-05-24 03:20:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-05-24 02:56:02 +0000"
     },
     "done": true
   },
@@ -5379,9 +5355,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
     "criteria": {
-      "has_iron_knife": "2025-05-24 02:57:12 +0000"
+      "has_canvas_rug": "2025-05-24 02:55:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-24 02:56:02 +0000"
     },
     "done": true
   },
@@ -5391,15 +5373,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-24 02:57:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-05-24 02:57:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/stove": {
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
-      "has_campfire": "2025-05-24 03:09:49 +0000"
+      "has_iron_knife": "2025-05-24 02:57:12 +0000"
     },
     "done": true
   },
@@ -5409,15 +5397,364 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-05-24 03:09:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-24 03:09:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cabbage": {
     "criteria": {
       "has_cabbage_crate": "2025-05-24 03:20:25 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+  "farmersdelight:recipes/food/rice_from_bag": {
     "criteria": {
-      "has_canvas_rug": "2025-05-24 02:55:43 +0000"
+      "has_rice_bag": "2025-05-24 03:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-05-24 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_soul_glass": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/modifier_worktable": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "excavator": "2025-05-24 03:52:16 +0000",
+      "sledge_hammer": "2025-05-24 03:51:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-05-24 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain_retextured": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-24 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "slimesteel": "2025-05-24 03:51:31 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct_retextured": {
+    "criteria": {
+      "has_item": "2025-05-24 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2025-05-24 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-05-24 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/flint_and_brick": {
+    "criteria": {
+      "has_seared": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2025-05-24 04:00:24 +0000"
     },
     "done": true
   },

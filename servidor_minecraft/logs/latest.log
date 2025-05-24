@@ -1180,3 +1180,132 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 03:40:49.524] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28265, l='ServerLevel[world]', x=2213.97, y=111.77, z=738.89]
 [24May2025 03:40:49.524] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28266, l='ServerLevel[world]', x=2213.35, y=111.51, z=738.22]
 [24May2025 03:40:49.524] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28267, l='ServerLevel[world]', x=2212.55, y=111.24, z=737.35]
+[24May2025 03:40:49.574] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28262, l='ServerLevel[world]', x=2218.25, y=112.30, z=739.68]
+[24May2025 03:40:49.574] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28263, l='ServerLevel[world]', x=2218.56, y=111.78, z=738.54]
+[24May2025 03:40:49.575] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28264, l='ServerLevel[world]', x=2214.99, y=112.56, z=740.01]
+[24May2025 03:40:49.575] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28265, l='ServerLevel[world]', x=2214.28, y=112.17, z=739.23]
+[24May2025 03:40:49.575] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28266, l='ServerLevel[world]', x=2213.65, y=111.91, z=738.55]
+[24May2025 03:40:49.575] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28267, l='ServerLevel[world]', x=2212.86, y=111.65, z=737.68]
+[24May2025 03:40:49.620] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28262, l='ServerLevel[world]', x=2218.55, y=112.62, z=740.02]
+[24May2025 03:40:49.620] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28263, l='ServerLevel[world]', x=2218.85, y=112.09, z=738.87]
+[24May2025 03:40:49.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28264, l='ServerLevel[world]', x=2215.28, y=112.88, z=740.34]
+[24May2025 03:40:49.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28265, l='ServerLevel[world]', x=2214.57, y=112.48, z=739.57]
+[24May2025 03:40:49.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28266, l='ServerLevel[world]', x=2213.95, y=112.22, z=738.89]
+[24May2025 03:40:49.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28267, l='ServerLevel[world]', x=2213.15, y=111.96, z=738.02]
+[24May2025 03:40:49.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28262, l='ServerLevel[world]', x=2218.84, y=112.94, z=740.33]
+[24May2025 03:40:49.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28263, l='ServerLevel[world]', x=2219.14, y=112.42, z=739.19]
+[24May2025 03:40:49.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28264, l='ServerLevel[world]', x=2215.57, y=113.21, z=740.66]
+[24May2025 03:40:49.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28265, l='ServerLevel[world]', x=2214.86, y=112.81, z=739.88]
+[24May2025 03:40:49.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28266, l='ServerLevel[world]', x=2214.24, y=112.55, z=739.21]
+[24May2025 03:40:49.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28267, l='ServerLevel[world]', x=2213.44, y=112.29, z=738.34]
+[24May2025 03:40:49.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28262, l='ServerLevel[world]', x=2218.98, y=113.29, z=740.50]
+[24May2025 03:40:49.743] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28263, l='ServerLevel[world]', x=2219.20, y=112.76, z=739.34]
+[24May2025 03:40:49.743] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28264, l='ServerLevel[world]', x=2215.74, y=113.55, z=741.05]
+[24May2025 03:40:49.743] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28265, l='ServerLevel[world]', x=2214.98, y=113.16, z=740.33]
+[24May2025 03:40:49.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28266, l='ServerLevel[world]', x=2214.31, y=112.90, z=739.70]
+[24May2025 03:40:49.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28267, l='ServerLevel[world]', x=2213.45, y=112.63, z=738.89]
+[24May2025 03:40:49.775] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28262, l='ServerLevel[world]', x=2219.10, y=113.65, z=740.66]
+[24May2025 03:40:49.776] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28263, l='ServerLevel[world]', x=2219.24, y=113.12, z=739.48]
+[24May2025 03:40:49.776] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28264, l='ServerLevel[world]', x=2215.91, y=113.91, z=741.43]
+[24May2025 03:41:33.565] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28265, l='ServerLevel[world]', x=2215.10, y=113.52, z=740.77]
+[24May2025 03:41:33.565] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28266, l='ServerLevel[world]', x=2214.39, y=113.26, z=740.18]
+[24May2025 03:41:33.565] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/28267, l='ServerLevel[world]', x=2213.47, y=112.99, z=739.43]
+[24May2025 03:41:33.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[24May2025 03:41:33.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[24May2025 03:41:33.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[24May2025 03:41:33.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[24May2025 03:41:33.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[24May2025 03:41:33.662] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[24May2025 03:41:33.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Disconnected
+[24May2025 03:41:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[24May2025 03:41:33.690] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[24May2025 03:41:33.709] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f41ad4e[id=<null>,name=AronTR,properties={},legacy=false] (/127.140.56.52:52005) lost connection: Disconnected
+[24May2025 03:41:33.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 43954ms or 879 ticks behind
+[24May2025 03:41:34.091] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/28389, l='ServerLevel[world]', x=2116.50, y=-3.00, z=791.50] as it would cause deadlock
+[24May2025 03:41:36.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:44039] logged in with entity id 28398 at (-262.334862073141, 163.0625, 4687.187968332176)
+[24May2025 03:41:36.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[24May2025 03:41:36.238] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[24May2025 03:41:36.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:43225] logged in with entity id 28399 at (-260.3011470724658, 156.0, 4687.439080442495)
+[24May2025 03:41:36.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[24May2025 03:41:36.489] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[24May2025 03:41:36.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.140.56.52:39063] logged in with entity id 28400 at (2311.0081967818987, 69.0, 676.3479308504334)
+[24May2025 03:41:36.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[24May2025 03:41:36.623] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[24May2025 03:41:36.665] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[24May2025 03:41:36.666] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
+[24May2025 03:41:37.165] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[24May2025 03:41:37.166] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[24May2025 03:41:38.049] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[24May2025 03:41:38.050] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[24May2025 03:42:18.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29163, l='ServerLevel[world]', x=2500.37, y=104.50, z=786.72] died, message: 'Unemployed suffocated in a wall'
+[24May2025 03:42:25.473] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24May2025 03:42:38.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe tienes carbón?
+[24May2025 03:42:43.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si
+[24May2025 03:42:52.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pon en los hornos de acá
+[24May2025 03:43:21.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> 8 de carbón en cada horno
+[24May2025 03:43:24.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> con eso es suficiente
+[24May2025 03:44:17.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 03:44:24.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 03:45:11.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe ire a explorar
+[24May2025 03:45:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> dale
+[24May2025 03:45:20.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> avisas cualquier vaina
+[24May2025 03:45:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> sis
+[24May2025 03:45:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ah y si encuentras esas islas en el cielo de slimes
+[24May2025 03:45:36.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> traes ese slime
+[24May2025 03:45:41.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[24May2025 03:45:42.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> para hacer slimesteel
+[24May2025 03:45:51.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> necesitamos ese slime celeste
+[24May2025 03:45:55.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> el verde no sirve
+[24May2025 03:47:37.102] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/32890, l='ServerLevel[world]', x=236.50, y=-53.00, z=4839.50] as it would cause deadlock
+[24May2025 03:47:39.787] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/32944, l='ServerLevel[world]', x=244.50, y=-53.00, z=4839.50] as it would cause deadlock
+[24May2025 03:47:45.416] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33094, l='ServerLevel[world]', x=222.50, y=-3.00, z=4900.50] as it would cause deadlock
+[24May2025 03:47:45.416] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33096, l='ServerLevel[world]', x=222.50, y=-3.00, z=4908.50] as it would cause deadlock
+[24May2025 03:48:16.443] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/33400, l='ServerLevel[world]', x=291.50, y=-59.00, z=4800.50] as it would cause deadlock
+[24May2025 03:48:21.534] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33496, l='ServerLevel[world]', x=247.50, y=-3.00, z=4900.50] as it would cause deadlock
+[24May2025 03:48:21.534] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33498, l='ServerLevel[world]', x=247.50, y=-3.00, z=4908.50] as it would cause deadlock
+[24May2025 03:48:26.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 03:48:26.716] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/33618, l='ServerLevel[world]', x=340.50, y=-16.00, z=4856.50] as it would cause deadlock
+[24May2025 03:49:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 03:49:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Dragonslayer]
+[24May2025 03:49:20.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 03:49:30.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Ashes 'n Bones]
+[24May2025 03:50:42.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Sweet Dreams]
+[24May2025 03:51:02.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=158, z=4885} BlockPos{x=383, y=157, z=4885}
+[24May2025 03:51:02.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=158, z=4885} BlockPos{x=383, y=157, z=4885}
+[24May2025 03:51:02.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=158, z=4885} BlockPos{x=383, y=157, z=4885}
+[24May2025 03:53:19.604] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24May2025 03:54:40.605] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/38667, l='ServerLevel[world]', x=-105.50, y=-3.00, z=5331.50] as it would cause deadlock
+[24May2025 03:55:33.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Knowledge raises the soul]
+[24May2025 03:56:45.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR was kicked for floating too long!
+[24May2025 03:56:45.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Disconnected
+[24May2025 03:56:45.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[24May2025 03:56:45.834] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[24May2025 03:56:45.880] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 03:56:50.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Another Brick in the Wall]
+[24May2025 03:56:56.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.140.56.52:47193] logged in with entity id 40862 at (2054.437283408936, 78.7531999805212, 1586.3890792915101)
+[24May2025 03:56:56.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[24May2025 03:56:56.800] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[24May2025 03:56:58.081] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[24May2025 03:56:58.082] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[24May2025 03:57:01.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Suit Up]
+[24May2025 03:57:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Isn't It Iron Pick]
+[24May2025 03:58:32.625] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41128, l='ServerLevel[world]', x=2044.29, y=86.49, z=1519.93]
+[24May2025 03:58:32.626] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41130, l='ServerLevel[world]', x=2043.89, y=86.24, z=1519.94]
+[24May2025 03:58:32.626] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41131, l='ServerLevel[world]', x=2044.96, y=85.74, z=1519.63]
+[24May2025 03:58:32.626] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41134, l='ServerLevel[world]', x=2043.21, y=86.49, z=1519.97]
+[24May2025 03:58:32.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41135, l='ServerLevel[world]', x=2044.47, y=86.12, z=1519.74]
+[24May2025 03:58:32.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41136, l='ServerLevel[world]', x=2045.51, y=85.87, z=1519.73]
+[24May2025 03:58:32.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41137, l='ServerLevel[world]', x=2044.90, y=84.87, z=1519.58]
+[24May2025 03:59:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Diamonds!]
+[24May2025 03:59:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Will it Come Back?]
+[24May2025 04:00:20.567] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/43661, l='ServerLevel[world]', x=-139.50, y=-3.00, z=5324.50] as it would cause deadlock
+[24May2025 04:00:20.568] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/43663, l='ServerLevel[world]', x=-139.50, y=-3.00, z=5316.50] as it would cause deadlock
+[24May2025 04:00:21.104] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/43698, l='ServerLevel[world]', x=-104.50, y=-53.00, z=5392.50] as it would cause deadlock
+[24May2025 04:00:22.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:00:43.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has reached the goal [Strong or Careful]
+[24May2025 04:00:43.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was slain by Dread Beast
+[24May2025 04:00:43.228] [Server thread/INFO] [tombstone/]: The player Jorgepwe has successfully been saved
+[24May2025 04:00:43.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Disconnected
+[24May2025 04:00:43.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[24May2025 04:00:43.284] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[24May2025 04:01:51.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
