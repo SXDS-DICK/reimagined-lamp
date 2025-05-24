@@ -6166,87 +6166,9 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 16:18:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-05-24 15:55:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_chestplate": "2025-05-24 16:10:55 +0000"
+      "slept_in_bed": "2025-05-24 14:31:21 +0000"
     },
     "done": true
   },
@@ -6256,57 +6178,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-05-24 14:31:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-05-24 15:06:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-05-24 15:33:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-24 14:33:10 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-05-24 16:09:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-05-24 15:55:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-05-24 15:33:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-05-24 15:55:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-05-24 16:10:55 +0000"
     },
     "done": true
   },
@@ -6316,9 +6190,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "has_golden_chestplate": "2025-05-24 16:10:55 +0000"
+      "has_book": "2025-05-24 14:33:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2025-05-24 14:33:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2025-05-24 14:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-24 15:06:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-05-24 15:33:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-05-24 15:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-24 15:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-24 15:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-24 15:55:27 +0000"
     },
     "done": true
   },
@@ -6334,33 +6256,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-24 14:33:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-05-24 16:10:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-05-24 15:55:27 +0000"
     },
     "done": true
   },
-  "tconstruct:foundry/encyclopedia": {
+  "supplementaries:recipes/ash_brick": {
     "criteria": {
-      "crafted_book": "2025-05-24 14:54:45 +0000"
+      "forge:ash": "2025-05-24 16:09:04 +0000"
     },
     "done": true
   },
-  "tconstruct:smeltery/mighty_smelting": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "crafted_book": "2025-05-24 14:33:45 +0000"
+      "has_golden_chestplate": "2025-05-24 16:10:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 16:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-24 16:10:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-24 16:10:55 +0000"
     },
     "done": true
   },
