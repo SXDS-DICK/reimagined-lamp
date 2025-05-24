@@ -5337,5 +5337,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-24 02:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-24 02:47:25 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/vine": {
+    "criteria": {
+      "has_copper_block": "2025-05-24 02:47:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-05-24 02:55:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
