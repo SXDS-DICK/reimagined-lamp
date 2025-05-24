@@ -6316,6 +6316,18 @@
     },
     "done": true
   },
+  "decoration_delight:sink_advancement": {
+    "criteria": {
+      "sink_advancement": "2025-05-24 17:36:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-05-24 17:46:02 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-05-24 17:15:51 +0000"
@@ -6331,6 +6343,12 @@
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy_0": "2025-05-24 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-24 17:44:38 +0000"
     },
     "done": true
   },

@@ -1771,3 +1771,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 17:23:56.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Good Demoman]
 [24May2025 17:33:02.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74b43682[id=<null>,name=J4lewsus_bt,properties={},legacy=false] (/127.156.108.63:45221) lost connection: Disconnected
 [24May2025 17:34:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 17:35:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 17:36:52.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Splish Splash]
+[24May2025 17:36:54.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:34595] logged in with entity id 3288 at (-379.9409638315801, 76.0, 5960.564727392336)
+[24May2025 17:36:54.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[24May2025 17:36:54.275] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[24May2025 17:36:54.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has completed the challenge [The Undead]
+[24May2025 17:36:56.618] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[24May2025 17:36:56.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
+[24May2025 17:37:18.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 17:37:34.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> esperame
+[24May2025 17:38:03.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 17:40:26.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> bro
+[24May2025 17:40:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> un solo mob me acaba de violar de una manera criminal
+[24May2025 17:40:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> me parece bien
+[24May2025 17:42:16.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3738, l='ServerLevel[world]', x=-477.61, y=75.00, z=6061.90] died, message: 'Unemployed was slain by Jorgepwe'
+[24May2025 17:42:16.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Neighborhood Brawl]
+[24May2025 17:43:41.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe cierto hay como 20 zombies nuevos
+[24May2025 17:43:47.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> y algunos son muy jodidos
+[24May2025 17:44:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has reached the goal [Skyslime Island]
+[24May2025 17:44:38.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Life turned out to be a comedy]
+[24May2025 17:46:17.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> go dormir
+[24May2025 17:46:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> acá violan
+[24May2025 17:46:29.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> pera
+[24May2025 17:48:16.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ven
+[24May2025 17:48:38.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> esta mesa de mrda
+[24May2025 17:49:23.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> puse el item unico
+[24May2025 17:49:26.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> y me dieron
+[24May2025 17:49:28.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tu eres huevón
+[24May2025 17:49:30.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> 7 raros
+[24May2025 17:49:32.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> estaba
+[24May2025 17:49:39.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> por romperse
+[24May2025 17:49:46.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> bueno
+[24May2025 17:51:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> acá hay herramientas pa ti
+[24May2025 17:51:15.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[24May2025 17:53:48.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> es muy duradera
+[24May2025 17:53:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe y como encanto
+[24May2025 17:54:00.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> las wbds estas
+[24May2025 17:54:05.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> con almas
+[24May2025 17:54:12.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> aaaa
+[24May2025 17:54:25.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> solo agarra el alma con el cursor
+[24May2025 17:54:30.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> y click derecho sobre el item
+[24May2025 17:54:34.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> para ponerle el alma
+[24May2025 17:54:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> y para encantar creo q ocupamos la mesa de encantamiento del mod este
+[24May2025 17:54:55.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> me sale que el item carece de alma
+[24May2025 17:55:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> aver presta
+[24May2025 17:55:07.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe
+[24May2025 17:55:10.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> esas wbds
