@@ -619,3 +619,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 15:54:25.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> mi inter
 [24May2025 15:54:43.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> terrible
 [24May2025 15:57:18.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Stone Age]
+[24May2025 16:02:52.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> duerme denuevo
+[24May2025 16:02:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> okok
+[24May2025 16:03:00.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Disconnected
+[24May2025 16:03:00.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[24May2025 16:03:00.184] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[24May2025 16:03:24.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:58041] logged in with entity id 16618 at (-141.29676907568688, 64.0, -175.45145914617376)
+[24May2025 16:03:24.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[24May2025 16:03:24.416] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[24May2025 16:03:38.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 16:03:54.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Timed out
+[24May2025 16:03:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[24May2025 16:03:54.433] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[24May2025 16:04:10.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:54707] logged in with entity id 16970 at (-141.29676907568688, 64.0, -175.45145914617376)
+[24May2025 16:04:10.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[24May2025 16:04:10.955] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[24May2025 16:04:35.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 16:05:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 16:05:33.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 16:05:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 16:06:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Getting an Upgrade]
+[24May2025 16:08:11.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Timed out
+[24May2025 16:08:11.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[24May2025 16:08:11.382] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[24May2025 16:08:36.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 16:08:38.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 16:08:41.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:45977] logged in with entity id 18102 at (-142.2772948438347, 64.0, -171.09707770764484)
+[24May2025 16:08:41.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[24May2025 16:08:41.818] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
