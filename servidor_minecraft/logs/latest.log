@@ -647,3 +647,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 16:08:41.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:45977] logged in with entity id 18102 at (-142.2772948438347, 64.0, -171.09707770764484)
 [24May2025 16:08:41.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
 [24May2025 16:08:41.818] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[24May2025 16:10:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Your First Receptacle]
+[24May2025 16:10:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Funeral Theft]
+[24May2025 16:12:05.870] [Worker-Main-35/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-341545622,-1614262919,-1130123407,1115280318],type:"minecraft:entity",y_offset:0.36f}}]
+[24May2025 16:12:05.871] [Worker-Main-35/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;793619195,-1815263949,-1530989623,-1350116684],type:"minecraft:entity",y_offset:0.36f}}]
+[24May2025 16:12:31.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> oe la oveja de mrd no muere
+[24May2025 16:12:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> JAJAJAJA
+[24May2025 16:12:50.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> va
+[24May2025 16:13:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te hago tp a mi base?
+[24May2025 16:14:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> yaya
+[24May2025 16:14:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya pera lo pongo en la consola
+[24May2025 16:14:32.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported Papanoel_01 to ChupetinXD]
+[24May2025 16:14:57.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Timed out
+[24May2025 16:14:57.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[24May2025 16:14:57.527] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[24May2025 16:15:08.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:40853] logged in with entity id 21554 at (-258.14408823975106, 156.0, 4688.1796635562105)
+[24May2025 16:15:08.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[24May2025 16:15:09.018] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[24May2025 16:17:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> crj el mose no copera
+[24May2025 16:17:15.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> JAJAJAJ
+[24May2025 16:17:23.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> vas a ir al colegio para deporte??
+[24May2025 16:17:27.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> sisi
+[24May2025 16:17:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> tu vas?
+[24May2025 16:17:33.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> sisiis
+[24May2025 16:17:40.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ven pa dormir
+[24May2025 16:17:49.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 16:17:51.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 16:18:19.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Sweet Dreams]
+[24May2025 16:18:58.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Timed out
+[24May2025 16:18:58.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[24May2025 16:18:58.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
