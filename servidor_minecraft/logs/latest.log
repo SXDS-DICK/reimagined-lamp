@@ -591,3 +591,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 15:46:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> pta soy negro
 [24May2025 15:46:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> JAJAJAJA
 [24May2025 15:47:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Dungeon Now Loading]
+[24May2025 15:51:27.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> mano duerme
+[24May2025 15:51:35.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> yaya pera
+[24May2025 15:51:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 15:51:40.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Disconnected
+[24May2025 15:51:40.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[24May2025 15:51:40.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[24May2025 15:52:14.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:58637] logged in with entity id 13344 at (37.82480779326889, 80.0, -111.43633883499704)
+[24May2025 15:52:15.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[24May2025 15:52:15.089] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[24May2025 15:52:20.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 15:52:45.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Disconnected
+[24May2025 15:52:45.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[24May2025 15:52:45.035] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[24May2025 15:52:45.081] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 15:53:20.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:48309] logged in with entity id 13776 at (37.82480779326889, 80.0, -111.43633883499704)
+[24May2025 15:53:20.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[24May2025 15:53:20.982] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[24May2025 15:53:50.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Timed out
+[24May2025 15:53:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[24May2025 15:53:50.984] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[24May2025 15:53:59.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -0.3999731990093096,0.3806751816428289,-10.16071156250564
+[24May2025 15:54:03.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:38679] logged in with entity id 14110 at (37.82480779326889, 80.0, -111.43633883499704)
+[24May2025 15:54:03.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[24May2025 15:54:03.334] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[24May2025 15:54:07.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q fue
+[24May2025 15:54:25.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> mi inter
+[24May2025 15:54:43.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> terrible
+[24May2025 15:57:18.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Stone Age]
