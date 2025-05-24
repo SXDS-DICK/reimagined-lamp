@@ -555,3 +555,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 14:31:21.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Sweet Dreams]
 [24May2025 14:54:45.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Encyclopedia]
 [24May2025 15:06:09.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Voluntary Exile]
+[24May2025 15:29:48.535] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74b39559[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:50725) lost connection: Disconnected
+[24May2025 15:30:04.629] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ccae7bb[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:49679) lost connection: Disconnected
+[24May2025 15:31:27.029] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e1f47da[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:43329) lost connection: Disconnected
+[24May2025 15:33:17.776] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36166554[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:55971) lost connection: Disconnected
+[24May2025 15:33:28.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ChupetinXD a server operator
+[24May2025 15:33:32.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 15:33:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Book of Monsters]
+[24May2025 15:33:36.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Would you Like to Know More?]
+[24May2025 15:33:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 15:34:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 15:34:15.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 15:34:48.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 15:34:53.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 15:35:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 15:35:13.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 15:36:20.027] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8bcfc35[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:46723) lost connection: Disconnected
+[24May2025 15:37:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 15:37:37.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 15:39:52.728] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b53e8f[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:49903) lost connection: Disconnected
+[24May2025 15:40:01.427] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b3ae4f1[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:59641) lost connection: Disconnected
+[24May2025 15:41:23.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 15:43:25.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:55495] logged in with entity id 10660 at (5.5, 35.0, 0.5)
+[24May2025 15:43:25.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[24May2025 15:43:26.000] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[24May2025 15:43:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Welcome To Dusty Decorations!]
+[24May2025 15:43:26.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Ice and Fire]
+[24May2025 15:43:39.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> joooo
+[24May2025 15:45:07.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> con la H abres el menú de stats
+[24May2025 15:45:30.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> amigo
+[24May2025 15:45:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q fue
+[24May2025 15:45:41.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> el mouse no me sive
+[24May2025 15:45:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> XDXD
+[24May2025 15:46:04.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> cmo q no te sirve
+[24May2025 15:46:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Papanoel_01> pta soy negro
+[24May2025 15:46:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> JAJAJAJA
+[24May2025 15:47:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Dungeon Now Loading]
