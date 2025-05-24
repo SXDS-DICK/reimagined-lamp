@@ -557,3 +557,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 02:31:27.266] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
 [24May2025 02:31:27.269] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
 [24May2025 02:31:27.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5570ms or 111 ticks behind
+[24May2025 02:42:51.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 02:42:52.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
