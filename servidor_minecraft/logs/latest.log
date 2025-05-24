@@ -578,3 +578,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 21:00:54.086] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a42392a[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:37929) lost connection: Disconnected
 [24May2025 21:01:02.780] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21b9dc1a[id=<null>,name=Papanoel_01,properties={},legacy=false] (/127.26.184.6:60469) lost connection: Disconnected
 [24May2025 21:01:41.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Enchanter]
+[24May2025 21:05:43.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has completed the challenge [Yo mama so fat, she digests her kids]
+[24May2025 21:05:57.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 21:06:19.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 21:06:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 21:09:20.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [The Wind Darkening]
+[24May2025 21:10:43.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Stolen Magic]
