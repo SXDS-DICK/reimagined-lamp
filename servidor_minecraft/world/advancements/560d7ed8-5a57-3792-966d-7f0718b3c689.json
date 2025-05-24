@@ -5943,51 +5943,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/tinker_station": {
+  "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
-      "has_item": "2025-05-24 04:27:20 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/decorations/tables/scorched_forge": {
-    "criteria": {
-      "has_item": "2025-05-24 04:25:53 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/materials_and_you": {
-    "criteria": {
-      "has_item": "2025-05-24 04:27:20 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/gold_casting": {
-    "criteria": {
-      "crafted_cast": "2025-05-24 04:28:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2025-05-24 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/tinkers_chest": {
-    "criteria": {
-      "has_item": "2025-05-24 04:27:20 +0000"
+      "has_dragon_bone_block": "2025-05-24 04:08:58 +0000"
     },
     "done": true
   },
@@ -5997,69 +5955,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/materials/slimesteel_ingot_from_block": {
-    "criteria": {
-      "has_item": "2025-05-24 04:25:53 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_sapphire_helmet": {
     "criteria": {
       "has_item": "2025-05-24 04:16:31 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/scorched_anvil": {
-    "criteria": {
-      "has_item": "2025-05-24 04:25:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/combat/armor_sapphire_chestplate": {
     "criteria": {
       "has_item": "2025-05-24 04:16:31 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/tables/book_substitute": {
-    "criteria": {
-      "has_item": "2025-05-24 04:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-05-24 04:24:19 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/decorations/tables/crafting_station": {
-    "criteria": {
-      "has_item": "2025-05-24 04:27:20 +0000"
     },
     "done": true
   },
@@ -6069,15 +5973,63 @@
     },
     "done": true
   },
-  "tconstruct:tools/make_part": {
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
-      "crafted_part": "2025-05-24 04:27:40 +0000"
+      "has_item": "2025-05-24 04:16:31 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/part_chest": {
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
     "criteria": {
-      "has_item": "2025-05-24 04:27:20 +0000"
+      "has_dragonscale_sapphire": "2025-05-24 04:18:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-05-24 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-05-24 04:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-24 04:24:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2025-05-24 04:25:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2025-05-24 04:25:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2025-05-24 04:25:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/slimesteel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-24 04:25:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2025-05-24 04:25:53 +0000"
     },
     "done": true
   },
@@ -6087,21 +6039,87 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "tconstruct:recipes/decorations/tables/tinkers_forge": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
-    "criteria": {
-      "has_casting": "2025-05-24 04:25:16 +0000"
+      "has_item": "2025-05-24 04:25:53 +0000"
     },
     "done": true
   },
   "tconstruct:smeltery/tinkers_anvil": {
     "criteria": {
       "crafted_overworld": "2025-05-24 04:26:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-05-24 04:26:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-05-24 04:26:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2025-05-24 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2025-05-24 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2025-05-24 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2025-05-24 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2025-05-24 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_chest": {
+    "criteria": {
+      "has_item": "2025-05-24 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_builder": {
+    "criteria": {
+      "has_item": "2025-05-24 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2025-05-24 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-05-24 04:27:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-05-24 04:28:36 +0000"
     },
     "done": true
   },
@@ -6127,33 +6145,15 @@
     },
     "done": false
   },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+  "tconstruct:recipes/decorations/tables/cast_chest": {
     "criteria": {
-      "has_item": "2025-05-24 04:16:31 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/misc/smeltery/sand_cast": {
-    "criteria": {
-      "has_casting": "2025-05-24 04:25:16 +0000"
+      "has_item": "2025-05-24 04:28:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-05-24 04:34:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonbone": {
-    "criteria": {
-      "has_dragon_bone_block": "2025-05-24 04:08:58 +0000"
     },
     "done": true
   },
@@ -6164,75 +6164,39 @@
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:smeltery/structure": {
-    "criteria": {
-      "open_smeltery": "2025-05-24 04:23:32 +0000"
+      "has_book": "2025-05-24 14:33:10 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/part_builder": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_item": "2025-05-24 04:27:20 +0000"
+      "slept_in_bed": "2025-05-24 14:31:21 +0000"
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
-    "criteria": {
-      "has_dragonscale_sapphire": "2025-05-24 04:18:29 +0000"
+      "has_book": "2025-05-24 14:33:10 +0000"
     },
     "done": true
   },
-  "tconstruct:tools/part_builder": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "crafted_block": "2025-05-24 04:26:48 +0000"
+      "has_book": "2025-05-24 14:33:10 +0000"
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 05:00:19 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/decorations/tables/tinkers_forge": {
-    "criteria": {
-      "has_item": "2025-05-24 04:25:53 +0000"
+      "has_book": "2025-05-24 14:33:10 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/cast_chest": {
+  "tconstruct:smeltery/mighty_smelting": {
     "criteria": {
-      "has_item": "2025-05-24 04:28:36 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
-    "criteria": {
-      "has_item": "2025-05-24 04:27:20 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/tinker_station": {
-    "criteria": {
-      "crafted_block": "2025-05-24 04:26:50 +0000"
+      "crafted_book": "2025-05-24 14:33:45 +0000"
     },
     "done": true
   },
