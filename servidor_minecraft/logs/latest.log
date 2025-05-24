@@ -2488,3 +2488,66 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [24May2025 04:21:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [A Fast Comeback]
 [24May2025 04:22:07.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/59348, l='ServerLevel[world]', x=4077.46, y=116.00, z=3311.61] died, message: 'Unemployed walked into fire whilst fighting Fire Dragon'
 [24May2025 04:22:14.017] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/59447, l='ServerLevel[world]', x=4069.52, y=117.00, z=3308.31] died, message: 'Unemployed burned to death'
+[24May2025 04:22:53.573] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24May2025 04:23:07.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:23:23.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:23:46.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tienes lava jorge?
+[24May2025 04:23:54.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> no
+[24May2025 04:23:59.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/59519, l='ServerLevel[world]', x=4137.75, y=122.00, z=3344.11] died, message: 'Weaponsmith discovered the floor was lava'
+[24May2025 04:24:13.747] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24May2025 04:24:19.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Hot Stuff]
+[24May2025 04:25:08.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:25:29.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:26:38.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Advanced Tool Making]
+[24May2025 04:26:44.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:26:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:27:16.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:27:20.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:27:23.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> mano en la nieve hay como mrd de dragones muertos
+[24May2025 04:27:30.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> terrible
+[24May2025 04:28:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:28:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:28:17.886] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1410, y=-58, z=47}
+[24May2025 04:28:22.879] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[24May2025 04:28:24.342] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-58, z=1458}
+[24May2025 04:29:35.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Burying the Hatchet]
+[24May2025 04:29:36.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Will it Come Back?]
+[24May2025 04:30:22.288] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24May2025 04:31:20.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68661, l='ServerLevel[world]', x=-613.22, y=79.00, z=5664.70] died, message: 'Unemployed was slain by Zombie'
+[24May2025 04:32:36.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Chest Slayer]
+[24May2025 04:32:55.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Amateur Archaeologist]
+[24May2025 04:32:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was turned into KFC by Fire Dragon
+[24May2025 04:32:59.450] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:32:59.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> entro mas tarde
+[24May2025 04:33:00.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[24May2025 04:33:00.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[24May2025 04:33:00.827] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[24May2025 04:33:25.177] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:33:26.934] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:33:27.180] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:33:27.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Chain Death]
+[24May2025 04:33:27.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was burnt to a crisp whilst fighting Fire Dragon
+[24May2025 04:33:27.634] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:33:51.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Here They Come]
+[24May2025 04:34:16.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR burned to death
+[24May2025 04:34:16.628] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[24May2025 04:34:30.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR was kicked for floating too long!
+[24May2025 04:34:30.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Flying is not enabled on this server
+[24May2025 04:34:30.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[24May2025 04:34:30.623] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[24May2025 04:34:39.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.140.56.52:35171] logged in with entity id 72292 at (4143.661769517134, -8.714507610681316, 3288.780269817687)
+[24May2025 04:34:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[24May2025 04:34:39.123] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[24May2025 04:34:39.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[24May2025 04:34:39.601] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[24May2025 04:34:43.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:35:05.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:37:05.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Cover Me with Diamonds]
+[24May2025 04:37:10.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:37:51.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:38:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:38:41.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:39:09.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:39:12.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[24May2025 04:39:16.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[24May2025 04:39:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
