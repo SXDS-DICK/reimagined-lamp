@@ -844,3 +844,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 21:07:14.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
 [25May2025 21:07:18.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
 [25May2025 21:07:20.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 21:25:08.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was shot by Skeleton
+[25May2025 21:25:08.405] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
