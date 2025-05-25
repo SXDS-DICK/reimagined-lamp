@@ -726,3 +726,47 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 04:32:07.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
 [25May2025 04:32:26.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> otro nido
 [25May2025 04:33:01.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -3.4295647507710783,6.707173933614541,-7.016416676807239
+[25May2025 04:35:28.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD was kicked for floating too long!
+[25May2025 04:35:28.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[25May2025 04:35:28.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[25May2025 04:35:28.771] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[25May2025 04:35:28.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 04:35:38.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:55359] logged in with entity id 36599 at (-287.3442157360208, 169.08229556857543, 4681.430572804131)
+[25May2025 04:35:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[25May2025 04:35:38.784] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[25May2025 04:35:40.032] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[25May2025 04:35:40.033] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[25May2025 04:36:16.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was turned to ice by Ice Dragon
+[25May2025 04:36:16.429] [Server thread/INFO] [tombstone/]: The player Jorgepwe has successfully been saved
+[25May2025 04:36:24.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe pasa ender pearl
+[25May2025 04:36:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> no tengo XDXD
+[25May2025 04:36:44.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tmr
+[25May2025 04:36:47.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> serio
+[25May2025 04:36:52.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> serio oe
+[25May2025 04:37:11.023] [Server thread/INFO] [tombstone/]: The player Jorgepwe has successfully been saved
+[25May2025 04:37:16.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has reached the goal [Chain Death]
+[25May2025 04:37:16.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was slain by Ice Dragon
+[25May2025 04:37:16.285] [Server thread/INFO] [tombstone/]: The player Jorgepwe has successfully been saved
+[25May2025 04:37:38.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was turned to ice by Ice Dragon
+[25May2025 04:37:38.472] [Server thread/INFO] [tombstone/]: The player Jorgepwe has successfully been saved
+[25May2025 04:38:07.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was slain by Ice Dragon
+[25May2025 04:38:07.567] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25May2025 04:38:07.568] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[25May2025 04:38:07.568] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[25May2025 04:38:07.568] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[25May2025 04:38:07.568] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[25May2025 04:38:07.572] [Server thread/INFO] [tombstone/]: The player Jorgepwe has successfully been saved
+[25May2025 04:38:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was slain by Ice Dragon
+[25May2025 04:38:42.933] [Server thread/INFO] [tombstone/]: The player Jorgepwe has successfully been saved
+[25May2025 04:39:11.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was turned to ice by Ice Dragon
+[25May2025 04:39:32.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was turned to ice by Ice Dragon
+[25May2025 04:39:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tmr
+[25May2025 04:39:43.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> busvate una
+[25May2025 04:42:30.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya vienes?
+[25May2025 04:42:31.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> me diouna follada increible
+[25May2025 04:42:34.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> JAJAJA
+[25May2025 04:42:39.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pero tienes hielo?
+[25May2025 04:42:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> no
+[25May2025 04:42:53.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> va
+[25May2025 04:42:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tpeame a estas cords
+[25May2025 04:43:43.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> -530 52 6627
