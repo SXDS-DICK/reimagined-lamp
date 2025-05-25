@@ -895,3 +895,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 21:54:17.049] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
 [25May2025 21:55:08.921] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71111, l='ServerLevel[world]', x=6352.50, y=-28.00, z=4205.50] as it would cause deadlock
 [25May2025 21:55:08.937] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71113, l='ServerLevel[world]', x=6344.50, y=-28.00, z=4205.50] as it would cause deadlock
+[25May2025 21:55:47.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to AronTR: pajero
+[25May2025 21:56:11.706] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25May2025 21:56:26.799] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[25May2025 21:57:27.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Cover Me In Emeralds]
+[25May2025 21:57:59.488] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 21:58:03.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [Well, that was disgusting]
+[25May2025 21:59:32.899] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25May2025 21:59:46.953] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[25May2025 21:59:46.953] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[25May2025 21:59:51.239] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[25May2025 22:03:25.062] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[25May2025 22:03:25.062] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[25May2025 22:03:55.520] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25May2025 22:05:23.256] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[25May2025 22:06:14.683] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/76677, l='ServerLevel[world]', x=7800.50, y=-53.00, z=3556.50] as it would cause deadlock
+[25May2025 22:06:34.603] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/76861, l='ServerLevel[world]', x=7824.50, y=-53.00, z=3613.50] as it would cause deadlock
+[25May2025 22:06:34.790] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/76865, l='ServerLevel[world]', x=7796.50, y=-53.00, z=3532.50] as it would cause deadlock
+[25May2025 22:06:36.946] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/76888, l='ServerLevel[world]', x=7853.50, y=-53.00, z=3652.50] as it would cause deadlock
+[25May2025 22:06:36.963] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/76890, l='ServerLevel[world]', x=7853.50, y=-53.00, z=3644.50] as it would cause deadlock
+[25May2025 22:06:37.895] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/76915, l='ServerLevel[world]', x=7816.50, y=-41.00, z=3507.50] as it would cause deadlock
+[25May2025 22:08:22.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: You logged in from another location
+[25May2025 22:08:22.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[25May2025 22:08:22.093] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[25May2025 22:08:22.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.251.44.177:35963] logged in with entity id 77562 at (7799.581798960637, 70.0, 3723.815585319171)
+[25May2025 22:08:22.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[25May2025 22:08:22.209] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[25May2025 22:08:23.814] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[25May2025 22:08:23.814] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[25May2025 22:11:41.206] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[25May2025 22:11:42.020] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78079, l='ServerLevel[world]', x=7939.50, y=-53.00, z=3912.50] as it would cause deadlock
+[25May2025 22:11:48.255] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/78126, l='ServerLevel[world]', x=7879.50, y=-9.00, z=3952.50] as it would cause deadlock
+[25May2025 22:12:16.057] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/78315, l='ServerLevel[world]', x=7818.50, y=22.00, z=4018.50] as it would cause deadlock
+[25May2025 22:12:16.072] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78318, l='ServerLevel[world]', x=7828.50, y=-28.00, z=4017.50] as it would cause deadlock
+[25May2025 22:12:16.073] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78320, l='ServerLevel[world]', x=7828.50, y=-28.00, z=4025.50] as it would cause deadlock
+[25May2025 22:12:16.180] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78328, l='ServerLevel[world]', x=7852.50, y=-53.00, z=4023.50] as it would cause deadlock
+[25May2025 22:12:16.289] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78330, l='ServerLevel[world]', x=7860.50, y=-53.00, z=4023.50] as it would cause deadlock
+[25May2025 22:12:35.531] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78396, l='ServerLevel[world]', x=7782.50, y=22.00, z=4044.50] as it would cause deadlock
+[25May2025 22:12:43.617] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/78484, l='ServerLevel[world]', x=7757.50, y=22.00, z=4056.50] as it would cause deadlock
+[25May2025 22:12:43.761] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78494, l='ServerLevel[world]', x=7782.50, y=22.00, z=4052.50] as it would cause deadlock
+[25May2025 22:12:44.210] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78514, l='ServerLevel[world]', x=7899.50, y=-59.00, z=4024.50] as it would cause deadlock
+[25May2025 22:12:55.869] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78575, l='ServerLevel[world]', x=7807.50, y=22.00, z=4077.50] as it would cause deadlock
+[25May2025 22:12:56.046] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78599, l='ServerLevel[world]', x=7815.50, y=22.00, z=4077.50] as it would cause deadlock
+[25May2025 22:13:53.622] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78888, l='ServerLevel[world]', x=7935.50, y=-28.00, z=4047.50] as it would cause deadlock
+[25May2025 22:13:53.768] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78894, l='ServerLevel[world]', x=7935.50, y=-28.00, z=4055.50] as it would cause deadlock
+[25May2025 22:14:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was struck by lightning
+[25May2025 22:14:30.702] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[25May2025 22:16:02.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to AronTR: oe hago otro server? este siento q ya aburrió o ns
+[25May2025 22:16:13.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AronTR> ns vean ustedes
+[25May2025 22:16:30.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to AronTR: okser
+[25May2025 22:18:49.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Disconnected
+[25May2025 22:18:49.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[25May2025 22:18:49.695] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
