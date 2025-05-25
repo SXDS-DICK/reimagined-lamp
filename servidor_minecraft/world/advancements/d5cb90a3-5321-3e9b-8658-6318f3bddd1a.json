@@ -6890,6 +6890,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/snow_block": {
+    "criteria": {
+      "has_copper_block": "2025-05-25 04:25:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
       "has_stack_upgrade_tier_1": "2025-05-25 04:10:25 +0000"
@@ -6902,6 +6908,12 @@
     },
     "done": true
   },
+  "decoration_delight:sink_advancement": {
+    "criteria": {
+      "sink_advancement": "2025-05-25 04:23:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-05-25 04:02:08 +0000"
@@ -6911,6 +6923,18 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-25 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-05-25 04:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-25 04:25:07 +0000"
     },
     "done": true
   },
