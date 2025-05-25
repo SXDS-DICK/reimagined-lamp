@@ -980,3 +980,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 23:02:59.604] [Worker-Main-185/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [7, 33], pos: MutableBlockPos{x=112, y=169, z=541}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
 [25May2025 23:03:36.031] [Worker-Main-154/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/90209, l='ServerLevel[world]', x=1.00, y=31.00, z=705.00] as it would cause deadlock
 [25May2025 23:03:38.923] [Worker-Main-154/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/90256, l='ServerLevel[world]', x=-142.00, y=31.00, z=582.00] as it would cause deadlock
+[25May2025 23:10:08.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[25May2025 23:10:24.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[25May2025 23:10:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[25May2025 23:11:06.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Jorgepwe: en un rato entro
+[25May2025 23:11:16.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[25May2025 23:11:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Jorgepwe: anda subiendo de nivel
+[25May2025 23:11:34.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> eso hago
+[25May2025 23:11:48.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Jorgepwe: okok
