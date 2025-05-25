@@ -772,3 +772,75 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 20:23:38.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> el q cocina automáticamente?
 [25May2025 20:23:41.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si
 [25May2025 20:23:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pucha
+[25May2025 20:24:26.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> cuándo go nether
+[25May2025 20:24:26.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> una botella pasate
+[25May2025 20:24:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> quiero hacer electrum
+[25May2025 20:24:36.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> cuando tenga
+[25May2025 20:24:40.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> lvl 25
+[25May2025 20:24:44.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya
+[25May2025 20:25:00.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> pasate pechera ps
+[25May2025 20:25:05.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> de q
+[25May2025 20:25:10.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> de lo mejor
+[25May2025 20:25:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> acá hay una de dragón
+[25May2025 20:25:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has completed the challenge [Strike upon thee]
+[25May2025 20:26:12.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te violó
+[25May2025 20:26:14.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> JAJAJAJA
+[25May2025 20:26:15.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si
+[25May2025 20:26:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> no le afecta echizos
+[25May2025 20:26:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe luego enytro
+[25May2025 20:26:33.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tengo frio
+[25May2025 20:26:34.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> okok
+[25May2025 20:26:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> dal
+[25May2025 20:26:36.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgepwe lost connection: Disconnected
+[25May2025 20:26:36.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe left the game
+[25May2025 20:26:36.095] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jorgepwe
+[25May2025 20:31:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:32:50.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:33:05.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.251.44.177:38341] logged in with entity id 31271 at (5436.67868552592, 131.1212968405392, 3834.4322710644838)
+[25May2025 20:33:05.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[25May2025 20:33:05.135] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[25May2025 20:33:07.982] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[25May2025 20:33:07.982] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[25May2025 20:33:41.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:34:36.194] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/32261, l='ServerLevel[world]', x=5373.50, y=-3.00, z=4125.50] as it would cause deadlock
+[25May2025 20:35:02.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:35:24.298] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/32732, l='ServerLevel[world]', x=5341.50, y=9.00, z=4138.50] as it would cause deadlock
+[25May2025 20:38:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:38:34.085] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5653, y=-11, z=4099}
+[25May2025 20:38:34.085] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5655, y=-11, z=4099}
+[25May2025 20:40:40.000] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bard'/33490, l='ServerLevel[world]', x=5565.85, y=104.00, z=4030.25] died, message: 'Bard was slain by Vindicator'
+[25May2025 20:41:00.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:41:24.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [Gross]
+[25May2025 20:41:29.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33981, l='ServerLevel[world]', x=5603.36, y=111.00, z=4008.59] died, message: 'Unemployed was shot by Pillager'
+[25May2025 20:42:18.753] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33847, l='ServerLevel[world]', x=5614.71, y=110.94, z=4027.36] died, message: 'Unemployed was shot by Pillager'
+[25May2025 20:42:30.465] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36220, l='ServerLevel[world]', x=5461.50, y=-3.00, z=4266.50] as it would cause deadlock
+[25May2025 20:43:24.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Fisticuffs]
+[25May2025 20:43:30.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/33972, l='ServerLevel[world]', x=5551.98, y=109.00, z=4009.45] died, message: 'Cleric was shot by Pillager'
+[25May2025 20:43:46.569] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36981, l='ServerLevel[world]', x=5461.50, y=-3.00, z=4274.50] as it would cause deadlock
+[25May2025 20:43:46.671] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36988, l='ServerLevel[world]', x=5432.50, y=-53.00, z=4264.50] as it would cause deadlock
+[25May2025 20:43:46.672] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/36990, l='ServerLevel[world]', x=5424.50, y=-53.00, z=4264.50] as it would cause deadlock
+[25May2025 20:44:27.330] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/37414, l='ServerLevel[world]', x=5458.50, y=-28.00, z=4319.50] as it would cause deadlock
+[25May2025 20:44:27.330] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/37416, l='ServerLevel[world]', x=5466.50, y=-28.00, z=4319.50] as it would cause deadlock
+[25May2025 20:50:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:51:13.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:51:26.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:52:41.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:54:33.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:55:16.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:55:18.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:55:23.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:55:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:55:31.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/33982, l='ServerLevel[world]', x=5599.56, y=84.19, z=4088.76] died, message: 'Fletcher was slain by Zombie'
+[25May2025 20:55:51.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:55:53.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33733, l='ServerLevel[world]', x=5601.70, y=96.00, z=4058.50] died, message: 'Unemployed was slain by Zombie Lumberjack'
+[25May2025 20:55:56.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was shot by Skeleton
+[25May2025 20:56:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:58:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:58:49.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 20:59:09.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 20:59:32.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Double Trouble]
+[25May2025 21:00:29.917] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/43688, l='ServerLevel[world]', x=5451.50, y=22.00, z=4296.50] as it would cause deadlock
+[25May2025 21:07:06.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 21:07:14.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 21:07:18.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 21:07:20.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]

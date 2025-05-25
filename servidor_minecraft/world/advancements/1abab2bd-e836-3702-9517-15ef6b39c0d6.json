@@ -4574,89 +4574,29 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
+  "tconstruct:tools/tool_smith": {
     "criteria": {
-      "charm_collector_1": "2025-05-25 05:22:45 +0000",
-      "charm_collector_0": "2025-05-25 05:35:04 +0000",
-      "charm_collector_3": "2025-05-25 05:22:41 +0000"
+      "mattock": "2025-05-25 05:10:17 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "tconstruct:tools/tinker_tool": {
     "criteria": {
-      "has_chicken": "2025-05-25 05:12:46 +0000"
+      "crafted_tool": "2025-05-25 05:10:17 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/stolen_magic": {
+  "tconstruct:tools/material_master": {
     "criteria": {
-      "coded_trigger": "2025-05-25 05:18:27 +0000"
+      "rock": "2025-05-25 05:10:17 +0000",
+      "copper": "2025-05-25 05:10:17 +0000",
+      "wood": "2025-05-25 05:10:17 +0000"
     },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-25 05:12:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_item": "2025-05-25 05:15:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-25 05:15:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-05-25 05:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-05-25 05:15:19 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-05-25 05:12:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-05-25 05:12:46 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_3": "2025-05-25 05:29:31 +0000"
-    },
-    "done": false
-  },
-  "spartanweaponry:recipes/bolt": {
-    "criteria": {
-      "has_feather": "2025-05-25 05:12:46 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
-    "criteria": {
-      "has_plank": "2025-05-25 05:15:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_bolt": {
-    "criteria": {
-      "has_feather": "2025-05-25 05:12:46 +0000"
     },
     "done": true
   },
@@ -4666,51 +4606,51 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dark_creator": {
+  "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
-      "dark_creator_0": "2025-05-25 05:22:32 +0000"
+      "has_light_gray_wool": "2025-05-25 05:12:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2025-05-25 05:15:19 +0000"
+      "has_chicken": "2025-05-25 05:12:46 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:junior_summoner": {
+  "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
-      "junior_summoner_0": "2025-05-25 05:36:24 +0000"
+      "has_any_ingredient": "2025-05-25 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-25 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-25 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-05-25 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-05-25 05:12:46 +0000"
     },
     "done": true
   },
   "farmersrespite:recipes/cooking/tea_curry": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 05:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-25 05:15:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_dark_oak": {
-    "criteria": {
-      "has_the_recipe": "2025-05-25 05:15:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-25 05:15:19 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-05-25 05:33:19 +0000"
     },
     "done": true
   },
@@ -4732,23 +4672,77 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-05-25 05:15:19 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
     "criteria": {
       "has_log": "2025-05-25 05:15:08 +0000"
     },
     "done": true
   },
-  "tconstruct:tools/tool_smith": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "mattock": "2025-05-25 05:10:17 +0000"
+      "has_log": "2025-05-25 05:15:08 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 05:15:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
@@ -4768,41 +4762,107 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-05-25 05:15:08 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/tinker_tool": {
-    "criteria": {
-      "crafted_tool": "2025-05-25 05:10:17 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/material_master": {
-    "criteria": {
-      "rock": "2025-05-25 05:10:17 +0000",
-      "copper": "2025-05-25 05:10:17 +0000",
-      "wood": "2025-05-25 05:10:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-25 05:15:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-05-25 05:12:09 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-05-25 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 05:18:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-25 05:22:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-05-25 05:22:45 +0000",
+      "charm_collector_0": "2025-05-25 05:35:04 +0000",
+      "charm_collector_3": "2025-05-25 05:22:41 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_3": "2025-05-25 05:29:31 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-25 05:33:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-05-25 05:36:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-25 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance_0": "2025-05-25 20:41:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-25 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:cestus": {
+    "criteria": {
+      "has_cestus": "2025-05-25 20:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-25 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/studded_cestus": {
+    "criteria": {
+      "has_cestus": "2025-05-25 20:43:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-25 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-25 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-25 20:41:53 +0000"
     },
     "done": true
   },
