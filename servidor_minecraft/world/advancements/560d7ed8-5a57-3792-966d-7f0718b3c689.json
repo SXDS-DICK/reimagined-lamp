@@ -6369,9 +6369,10 @@
     "criteria": {
       "crafted_leggings": "2025-05-24 17:56:38 +0000",
       "crafted_helmet": "2025-05-24 17:57:02 +0000",
+      "crafted_boots": "2025-05-25 04:45:06 +0000",
       "crafted_chestplate": "2025-05-24 17:53:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
