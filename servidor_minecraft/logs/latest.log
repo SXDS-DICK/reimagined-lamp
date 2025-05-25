@@ -571,3 +571,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 00:42:37.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> nidea
 [25May2025 00:42:44.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pera le cambio las pilas a mi mouse
 [25May2025 00:42:48.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[25May2025 00:49:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya está
+[25May2025 00:49:03.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [The Wind Darkening]
+[25May2025 00:49:47.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[25May2025 00:50:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe pera iré a comer
+[25May2025 00:50:35.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> anda avanzando
+[25May2025 00:50:46.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[25May2025 00:50:53.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[25May2025 00:50:53.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[25May2025 00:50:53.340] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[25May2025 00:51:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has reached the goal [Fighting Nightmares]
+[25May2025 00:58:23.199] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [undead_revamp2:undead_revamp2,born_in_chaos_v1:born_in_chaos_v1] rejected their client side version number
+[25May2025 00:58:23.200] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:58:23.241] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ca9c355[id=<null>,name=AronTR,properties={},legacy=false] (/127.140.56.52:44127) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:58:30.929] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [undead_revamp2:undead_revamp2,born_in_chaos_v1:born_in_chaos_v1] rejected their client side version number
+[25May2025 00:58:30.929] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:58:30.937] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27f9b982[id=<null>,name=AronTR,properties={},legacy=false] (/127.140.56.52:44459) lost connection: Connection closed - mismatched mod channel list
