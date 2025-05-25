@@ -6891,33 +6891,9 @@
     },
     "done": true
   },
-  "immersive_weathering:recipes/snow_block": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "has_copper_block": "2025-05-25 04:25:25 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-05-25 04:56:13 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/dragon_meal": {
-    "criteria": {
-      "bestiary": "2025-05-25 04:56:36 +0000"
+      "egg": "2025-05-25 04:02:08 +0000"
     },
     "done": true
   },
@@ -6927,59 +6903,17 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-05-25 05:00:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-05-25 05:00:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-05-25 04:38:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-25 05:01:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-05-25 04:38:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-05-25 04:56:13 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-05-25 04:19:50 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
+      "enchanted_item": "2025-05-25 04:22:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "decoration_delight:sink_advancement": {
     "criteria": {
@@ -6987,39 +6921,21 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2025-05-25 04:55:29 +0000"
+      "has_packed_ice": "2025-05-25 04:25:07 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-05-25 04:02:08 +0000"
+      "has_ice": "2025-05-25 04:25:19 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "immersive_weathering:recipes/snow_block": {
     "criteria": {
-      "bestiary": "2025-05-25 05:00:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-25 04:56:10 +0000"
+      "has_copper_block": "2025-05-25 04:25:25 +0000"
     },
     "done": true
   },
@@ -7029,63 +6945,9 @@
     },
     "done": true
   },
-  "undead_revamp2:defeatundeadbosses": {
-    "criteria": {
-      "defeatundeadbosses_0": "2025-05-25 04:59:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "undead_revamp2:oneskelly": {
-    "criteria": {
-      "oneskelly_0": "2025-05-25 04:59:50 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-05-25 04:36:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-25 04:56:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-05-25 04:22:23 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-05-25 04:25:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-05-25 04:37:16 +0000"
     },
     "done": true
   },
@@ -7095,35 +6957,71 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-05-25 04:25:07 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-05-25 04:36:09 +0000"
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "tconstruct:recipes/misc/common/flint": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
+      "has_item": "2025-05-25 04:36:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 05:02:06 +0000"
+      "coded_trigger": "2025-05-25 04:37:16 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-25 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-25 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-25 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-05-25 04:55:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-25 04:56:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-25 04:56:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-05-25 04:56:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-05-25 04:56:13 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/beef_patty_from_smoking": {
     "criteria": {
@@ -7137,21 +7035,51 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-05-25 04:56:36 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-05-25 04:59:47 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded_0": "2025-05-25 04:59:47 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/flint": {
+  "undead_revamp2:oneskelly": {
     "criteria": {
-      "has_item": "2025-05-25 04:36:09 +0000"
+      "oneskelly_0": "2025-05-25 04:59:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
-      "has_raw_copper": "2025-05-25 04:38:04 +0000"
+      "bestiary": "2025-05-25 05:00:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-05-25 05:00:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-05-25 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-25 05:01:43 +0000"
     },
     "done": true
   },
