@@ -495,6 +495,8 @@
     "criteria": {
       "minecraft:pillager": "2025-05-25 01:22:38 +0000",
       "minecraft:skeleton": "2025-05-23 05:18:42 +0000",
+      "minecraft:ravager": "2025-05-25 02:14:47 +0000",
+      "minecraft:vindicator": "2025-05-25 02:13:33 +0000",
       "minecraft:spider": "2025-05-23 05:13:16 +0000",
       "minecraft:creeper": "2025-05-23 04:49:44 +0000",
       "minecraft:witch": "2025-05-23 16:03:27 +0000",
@@ -1913,6 +1915,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-25 02:14:05 +0000",
       "cooked_mutton": "2025-05-24 04:07:08 +0000",
       "sweet_berries": "2025-05-23 06:44:09 +0000",
       "cooked_beef": "2025-05-23 05:01:14 +0000",
@@ -6650,13 +6653,45 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "big_boy_0": "2025-05-25 01:24:33 +0000"
+      "the_wind_darkening_0": "2025-05-25 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-25 00:51:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-05-25 00:51:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-25 01:09:01 +0000",
+      "trickor_treat_6": "2025-05-25 01:09:27 +0000",
+      "trickor_treat_7": "2025-05-25 01:09:00 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:sweet_battle": {
+    "criteria": {
+      "sweet_battle_0": "2025-05-25 01:10:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-25 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-05-25 01:11:17 +0000"
     },
@@ -6671,24 +6706,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-05-25 01:16:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-05-25 01:22:56 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-05-25 00:51:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-05-25 00:51:39 +0000"
     },
     "done": true
   },
@@ -6722,18 +6739,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-05-25 00:49:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-05-25 01:23:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-05-25 01:16:05 +0000"
@@ -6746,29 +6751,27 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:sweet_battle": {
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
-      "sweet_battle_0": "2025-05-25 01:10:23 +0000"
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:trickor_treat": {
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
-      "trickor_treat_0": "2025-05-25 01:09:01 +0000",
-      "trickor_treat_6": "2025-05-25 01:09:27 +0000",
-      "trickor_treat_7": "2025-05-25 01:09:00 +0000"
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-25 01:22:56 +0000"
+    },
+    "done": true
   },
   "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
     "criteria": {
       "has_log": "2025-05-25 01:23:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-25 01:16:05 +0000"
     },
     "done": true
   },
@@ -6784,15 +6787,106 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "farmersdelight:recipes/food/onion": {
     "criteria": {
-      "has_sandstone": "2025-05-25 01:16:05 +0000"
+      "has_onion_crate": "2025-05-25 01:23:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "born_in_chaos_v1:big_boy": {
     "criteria": {
-      "has_snowball": "2025-05-25 01:11:17 +0000"
+      "big_boy_0": "2025-05-25 01:24:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-05-25 02:22:01 +0000",
+      "charm_collector_2": "2025-05-25 02:22:01 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-25 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-25 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-05-25 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/snow_on": {
+    "criteria": {
+      "wax_on": "2025-05-25 02:19:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-25 02:21:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-05-25 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-05-25 02:21:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-05-25 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-25 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-25 02:15:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-05-25 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-25 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-25 02:21:00 +0000"
     },
     "done": true
   },

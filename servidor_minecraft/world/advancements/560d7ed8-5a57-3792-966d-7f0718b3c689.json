@@ -392,6 +392,7 @@
       "minecraft:snowy_slopes": "2025-05-23 06:35:16 +0000",
       "minecraft:taiga": "2025-05-23 07:17:26 +0000",
       "minecraft:deep_ocean": "2025-05-23 05:57:15 +0000",
+      "minecraft:frozen_river": "2025-05-25 03:05:05 +0000",
       "minecraft:birch_forest": "2025-05-23 06:41:41 +0000",
       "minecraft:beach": "2025-05-23 06:07:25 +0000",
       "minecraft:river": "2025-05-23 04:38:17 +0000",
@@ -696,7 +697,8 @@
       "minecraft:stray": "2025-05-23 15:46:20 +0000",
       "minecraft:enderman": "2025-05-24 15:03:14 +0000",
       "minecraft:zombie": "2025-05-23 04:47:13 +0000",
-      "minecraft:drowned": "2025-05-23 06:25:55 +0000"
+      "minecraft:drowned": "2025-05-23 06:25:55 +0000",
+      "minecraft:zombie_villager": "2025-05-25 03:04:22 +0000"
     },
     "done": false
   },
@@ -6476,79 +6478,6 @@
       "legendaryweapon_0": "2025-05-25 00:17:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-25 01:24:10 +0000",
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 01:24:03 +0000"
-    },
-    "done": false
   },
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {

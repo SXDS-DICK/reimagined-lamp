@@ -396,6 +396,7 @@
       "minecraft:beach": "2025-05-24 03:26:51 +0000",
       "minecraft:river": "2025-05-24 03:10:37 +0000",
       "minecraft:snowy_plains": "2025-05-24 03:36:12 +0000",
+      "minecraft:stony_shore": "2025-05-25 02:27:25 +0000",
       "minecraft:dripstone_caves": "2025-05-24 04:31:07 +0000",
       "minecraft:jagged_peaks": "2025-05-24 03:47:44 +0000",
       "minecraft:cold_ocean": "2025-05-24 03:20:38 +0000",
@@ -1489,12 +1490,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-25 02:20:53 +0000",
       "minecraft:skeleton": "2025-05-24 03:09:44 +0000",
       "minecraft:spider": "2025-05-24 03:31:28 +0000",
       "minecraft:creeper": "2025-05-24 04:31:50 +0000",
       "minecraft:witch": "2025-05-24 03:35:12 +0000",
+      "minecraft:cave_spider": "2025-05-25 01:53:35 +0000",
       "minecraft:enderman": "2025-05-24 04:41:46 +0000",
-      "minecraft:zombie": "2025-05-24 03:11:34 +0000"
+      "minecraft:stray": "2025-05-25 01:57:20 +0000",
+      "minecraft:vex": "2025-05-25 02:08:06 +0000",
+      "minecraft:zombie": "2025-05-24 03:11:34 +0000",
+      "minecraft:zombie_villager": "2025-05-25 01:48:36 +0000"
     },
     "done": false
   },
@@ -4199,12 +4205,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-05-25 01:25:02 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 01:11:35 +0000"
@@ -4223,6 +4223,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-25 02:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-25 01:46:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-25 01:23:52 +0000"
@@ -4235,9 +4247,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-25 02:24:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-05-25 02:01:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-25 01:34:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 02:21:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-05-25 01:46:01 +0000"
     },
     "done": true
   },
@@ -4253,9 +4295,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-25 01:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-05-25 02:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-05-25 02:00:42 +0000"
     },
     "done": true
   },
@@ -4268,6 +4328,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-25 01:23:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-05-25 02:00:42 +0000"
     },
     "done": true
   },
@@ -4289,15 +4355,57 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-25 01:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-25 01:46:01 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-05-25 01:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-05-25 02:00:42 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-05-25 01:33:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 01:11:35 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-25 01:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-25 01:23:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-05-25 02:28:35 +0000"
     },
     "done": true
   },
@@ -4331,6 +4439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-25 02:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 01:11:35 +0000"
@@ -4349,6 +4463,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-05-25 01:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-25 01:23:52 +0000"
@@ -4358,6 +4478,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-25 01:48:46 +0000"
     },
     "done": true
   },
@@ -4373,15 +4499,45 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-25 02:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-25 01:23:52 +0000"
     },
     "done": true
   },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-05-25 01:31:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-25 01:42:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-25 02:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-25 01:49:03 +0000"
     },
     "done": true
   },
@@ -4400,6 +4556,18 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-25 02:22:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-25 01:42:38 +0000"
     },
     "done": true
   },
