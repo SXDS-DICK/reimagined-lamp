@@ -6380,6 +6380,36 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-24 20:59:47 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-24 20:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-24 20:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-24 20:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-24 20:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-24 21:01:01 +0000"
@@ -6392,9 +6422,15 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "decorative_blocks:recipes/building_blocks/spruce_beam": {
     "criteria": {
-      "obsidian": "2025-05-24 20:59:47 +0000"
+      "has_stripped_log": "2025-05-24 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-24 21:01:41 +0000"
     },
     "done": true
   },
@@ -6410,39 +6446,15 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "tombstone:adventure/stolen_magic": {
     "criteria": {
-      "crying_obsidian": "2025-05-24 20:59:49 +0000"
+      "coded_trigger": "2025-05-24 21:10:43 +0000"
     },
     "done": true
   },
-  "spartanshields:recipes/obsidian_tower_shield": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "has_obsidian": "2025-05-24 20:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-05-24 21:01:41 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/spruce_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-05-24 21:01:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-05-24 20:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-05-24 20:59:47 +0000"
+      "sword": "2025-05-25 00:08:17 +0000"
     },
     "done": true
   },
