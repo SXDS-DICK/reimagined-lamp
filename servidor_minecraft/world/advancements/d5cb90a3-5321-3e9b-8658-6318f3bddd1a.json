@@ -6799,22 +6799,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "charm_collector_3": "2025-05-25 02:22:01 +0000",
-      "charm_collector_2": "2025-05-25 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_blue_leggings": {
-    "criteria": {
-      "has_item": "2025-05-25 02:27:35 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2025-05-25 02:22:01 +0000"
+      "double_trouble_0": "2025-05-25 02:11:42 +0000"
     },
     "done": true
   },
@@ -6824,9 +6811,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:double_trouble": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "double_trouble_0": "2025-05-25 02:11:42 +0000"
+      "hero_of_the_village": "2025-05-25 02:15:06 +0000"
     },
     "done": true
   },
@@ -6836,21 +6823,52 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dark_creator": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "dark_creator_0": "2025-05-25 02:21:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
-    "criteria": {
-      "has_dragonscales_blue": "2025-05-25 02:27:35 +0000"
+      "exorcism_0": "2025-05-25 02:21:00 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-05-25 02:21:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-25 02:21:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-05-25 02:22:01 +0000",
+      "charm_collector_2": "2025-05-25 02:22:01 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-25 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-25 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-25 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-05-25 02:27:35 +0000"
     },
     "done": true
   },
@@ -6866,27 +6884,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-05-25 02:15:06 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2025-05-25 02:27:35 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:deceived_hopes": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
-      "deceived_hopes_0": "2025-05-25 02:23:13 +0000"
+      "has_stack_upgrade_tier_1": "2025-05-25 04:10:25 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:exorcism": {
+  "born_in_chaos_v1:good_demoman": {
     "criteria": {
-      "exorcism_0": "2025-05-25 02:21:00 +0000"
+      "good_demoman_0": "2025-05-25 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-25 04:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-25 04:22:23 +0000"
     },
     "done": true
   },

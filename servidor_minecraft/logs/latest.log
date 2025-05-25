@@ -615,3 +615,83 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 03:42:01.503] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
 [25May2025 03:47:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [My Name is Nobody]
 [25May2025 03:48:38.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -7.9471474502566934,-2.9023412362381293,5.421658920677146
+[25May2025 03:52:43.184] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18275, l='ServerLevel[world]', x=-603.50, y=-3.00, z=7309.50] as it would cause deadlock
+[25May2025 03:52:43.184] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18277, l='ServerLevel[world]', x=-603.50, y=-3.00, z=7301.50] as it would cause deadlock
+[25May2025 03:54:51.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 03:57:35.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 03:57:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Fortuitous Militia]
+[25May2025 03:58:22.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:59579] logged in with entity id 19154 at (-1316.3471971275949, 1.0, 5141.5608297532035)
+[25May2025 03:58:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[25May2025 03:58:22.612] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[25May2025 03:58:24.730] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[25May2025 03:58:24.731] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
+[25May2025 03:58:42.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe was doomed to fall
+[25May2025 03:58:42.092] [Server thread/INFO] [tombstone/]: The player Jorgepwe has successfully been saved
+[25May2025 04:00:28.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Magic Siphoner]
+[25May2025 04:01:06.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya mataste esos dragones?
+[25May2025 04:01:10.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si
+[25May2025 04:01:14.837] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1060, y=-8, z=5368}
+[25May2025 04:01:14.838] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1060, y=-8, z=5369}
+[25May2025 04:01:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te dieron huevo?
+[25May2025 04:01:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> estoy
+[25May2025 04:01:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> looteando
+[25May2025 04:01:29.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> pera
+[25May2025 04:01:35.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Dark Metallurgy]
+[25May2025 04:02:06.188] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/22854, l='ServerLevel[world]', x=-1071.50, y=-16.00, z=7714.50] as it would cause deadlock
+[25May2025 04:02:06.708] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/22890, l='ServerLevel[world]', x=-1210.50, y=-3.00, z=7691.50] as it would cause deadlock
+[25May2025 04:02:08.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Mother of Dragons]
+[25May2025 04:02:12.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si dio
+[25May2025 04:02:32.213] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/23255, l='ServerLevel[world]', x=-1072.50, y=-28.00, z=7774.50] as it would cause deadlock
+[25May2025 04:02:32.848] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23273, l='ServerLevel[world]', x=-1215.50, y=-53.00, z=7745.50] as it would cause deadlock
+[25May2025 04:02:33.172] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23281, l='ServerLevel[world]', x=-1238.50, y=-53.00, z=7729.50] as it would cause deadlock
+[25May2025 04:02:33.173] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23283, l='ServerLevel[world]', x=-1238.50, y=-53.00, z=7737.50] as it would cause deadlock
+[25May2025 04:03:02.079] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23634, l='ServerLevel[world]', x=-1235.50, y=22.00, z=7769.50] as it would cause deadlock
+[25May2025 04:03:23.034] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23874, l='ServerLevel[world]', x=-1235.50, y=22.00, z=7777.50] as it would cause deadlock
+[25May2025 04:03:24.884] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23896, l='ServerLevel[world]', x=-1129.50, y=-28.00, z=7833.50] as it would cause deadlock
+[25May2025 04:03:25.324] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23905, l='ServerLevel[world]', x=-1181.50, y=22.00, z=7836.50] as it would cause deadlock
+[25May2025 04:03:25.464] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23914, l='ServerLevel[world]', x=-1189.50, y=22.00, z=7836.50] as it would cause deadlock
+[25May2025 04:03:27.405] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23934, l='ServerLevel[world]', x=-1129.50, y=-28.00, z=7841.50] as it would cause deadlock
+[25May2025 04:03:45.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 0.258751660571761,-8.30068771110355,6.900251628581827
+[25May2025 04:03:57.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 1.199633728580693,6.774238566425694,7.537997507975888
+[25May2025 04:04:58.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya tenemos dragones
+[25May2025 04:05:12.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Dark Creator]
+[25May2025 04:05:31.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Who You Gonna Call?]
+[25May2025 04:05:40.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> VAMOOOOS
+[25May2025 04:05:46.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> q fue
+[25May2025 04:05:55.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> donde te encuentras
+[25May2025 04:06:05.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> explorando
+[25May2025 04:06:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ven ps
+[25May2025 04:06:27.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> conseguí un lingote espectral
+[25May2025 04:06:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tengo 2 huevos de dragon
+[25May2025 04:06:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> uno cada uno
+[25May2025 04:07:54.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 8.372268977550107,5.392982644263782,-2.4654477014055374
+[25May2025 04:08:00.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> god
+[25May2025 04:08:09.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> voy farmeando carne
+[25May2025 04:09:25.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 04:09:32.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 04:12:03.622] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/29121, l='ServerLevel[world]', x=-482.50, y=-53.00, z=7313.50] as it would cause deadlock
+[25May2025 04:12:03.622] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/29123, l='ServerLevel[world]', x=-482.50, y=-53.00, z=7321.50] as it would cause deadlock
+[25May2025 04:12:38.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -1.4022478245658476,-6.2106977701175055,-8.019632483124951
+[25May2025 04:18:06.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Dragon Growth Hormone]
+[25May2025 04:18:33.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 04:18:41.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 04:19:12.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Mother of Dragons]
+[25May2025 04:19:15.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> de q color tienes
+[25May2025 04:19:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> muy bueno
+[25May2025 04:19:25.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ese es mio
+[25May2025 04:19:29.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te agarraste el piola
+[25May2025 04:19:30.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> como se incuba
+[25May2025 04:19:38.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> si ps
+[25May2025 04:19:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Good Demoman]
+[25May2025 04:20:05.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tenemos que ponerlo en agua, y meterle hielo abajo
+[25May2025 04:20:35.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> me parece bien
+[25May2025 04:20:46.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> como concha conseguimos hielo
+[25May2025 04:21:02.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ese sirve?
+[25May2025 04:21:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> nidea
+[25May2025 04:21:07.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> provemos
+[25May2025 04:21:10.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pero priero
+[25May2025 04:21:13.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> durmamos
+[25May2025 04:22:01.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pasa el hielo
+[25May2025 04:22:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Enchanter]
+[25May2025 04:22:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> pon el huevo
+[25May2025 04:23:04.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> donde hay agua
