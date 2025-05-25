@@ -594,3 +594,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 03:07:21.088] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/3779, l='ServerLevel[world]', x=351.50, y=-34.00, z=5871.50] as it would cause deadlock
 [25May2025 03:07:51.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -2.7193687133351148,7.622183374898725,6.825141295409594
 [25May2025 03:08:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 03:12:45.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 03:12:51.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 03:13:06.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 03:23:12.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 03:23:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 03:32:24.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Strong or Careful]
+[25May2025 03:32:24.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD was burnt to a crisp whilst fighting Skeleton
+[25May2025 03:32:24.781] [Server thread/INFO] [tombstone/]: The player ChupetinXD has successfully been saved
+[25May2025 03:32:28.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 03:32:33.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 03:32:37.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [The Most Useful Key]
+[25May2025 03:32:47.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [A Fast Comeback]
+[25May2025 03:32:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 03:32:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 03:42:01.501] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25May2025 03:42:01.502] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[25May2025 03:42:01.502] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iced_dragon_bone_longbow
+[25May2025 03:42:01.502] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 dragon_ice_stylet
+[25May2025 03:42:01.503] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[25May2025 03:47:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [My Name is Nobody]
+[25May2025 03:48:38.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! -7.9471474502566934,-2.9023412362381293,5.421658920677146

@@ -403,6 +403,7 @@
       "minecraft:grove": "2025-05-23 06:36:23 +0000",
       "minecraft:forest": "2025-05-23 04:44:32 +0000",
       "minecraft:ocean": "2025-05-23 05:19:19 +0000",
+      "minecraft:snowy_beach": "2025-05-25 03:47:13 +0000",
       "minecraft:frozen_peaks": "2025-05-23 06:35:23 +0000",
       "minecraft:meadow": "2025-05-23 06:58:33 +0000",
       "minecraft:plains": "2025-05-23 04:34:12 +0000"
@@ -6488,6 +6489,72 @@
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-05-25 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/album_cover": {
+    "criteria": {
+      "has_paper": "2025-05-25 03:08:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-25 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-05-25 03:08:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 03:32:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-05-25 03:08:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-25 03:08:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-25 03:47:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-25 03:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-25 03:08:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-25 03:32:37 +0000"
     },
     "done": true
   },
