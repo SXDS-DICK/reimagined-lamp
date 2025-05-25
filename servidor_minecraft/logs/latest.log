@@ -587,3 +587,120 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 00:58:30.929] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [undead_revamp2:undead_revamp2,born_in_chaos_v1:born_in_chaos_v1] rejected their client side version number
 [25May2025 00:58:30.929] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [25May2025 00:58:30.937] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27f9b982[id=<null>,name=AronTR,properties={},legacy=false] (/127.140.56.52:44459) lost connection: Connection closed - mismatched mod channel list
+[25May2025 01:01:55.952] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25May2025 01:03:08.262] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[25May2025 01:03:08.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.140.56.52:53087] logged in with entity id 6079 at (4063.20836539969, 3.0, 3170.3731573436166)
+[25May2025 01:03:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[25May2025 01:03:08.505] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[25May2025 01:03:08.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [The Undead]
+[25May2025 01:03:11.159] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[25May2025 01:03:11.160] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[25May2025 01:04:12.495] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25May2025 01:04:12.496] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25May2025 01:04:12.496] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25May2025 01:04:12.496] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25May2025 01:04:12.496] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[25May2025 01:04:41.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:58315] logged in with entity id 7805 at (-252.41937589906405, 160.0, 4681.293500090604)
+[25May2025 01:04:41.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[25May2025 01:04:41.901] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[25May2025 01:04:42.225] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[25May2025 01:04:42.225] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[25May2025 01:04:58.762] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[25May2025 01:05:06.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:06.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:06.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:06.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:06.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:06.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:06.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:07.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:07.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=172, z=6067} BlockPos{x=-634, y=64, z=6693}
+[25May2025 01:05:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Creative Mode]
+[25May2025 01:05:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Set own game mode to Survival Mode]
+[25May2025 01:05:33.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> jorge
+[25May2025 01:05:36.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> me hago tp?
+[25May2025 01:05:45.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> toy cerca aun
+[25May2025 01:06:25.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> esperame
+[25May2025 01:06:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya ando subiendo el cerro
+[25May2025 01:07:59.761] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[25May2025 01:08:12.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[25May2025 01:08:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[25May2025 01:08:12.068] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[25May2025 01:08:12.120] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 01:08:28.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:38647] logged in with entity id 11345 at (-295.6286507840713, 204.55546789283846, 4903.462424998134)
+[25May2025 01:08:28.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[25May2025 01:08:28.388] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[25May2025 01:08:28.661] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[25May2025 01:08:28.662] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[25May2025 01:10:13.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11434, l='ServerLevel[world]', x=-337.30, y=188.00, z=4908.35] died, message: 'Unemployed was slain by The Moonflower'
+[25May2025 01:10:23.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Sweet Battle]
+[25May2025 01:11:20.664] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 01:11:20.664] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 01:13:35.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q rico esqueleto
+[25May2025 01:13:47.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> q t dio
+[25May2025 01:13:53.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ven mejor
+[25May2025 01:13:56.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pa q lo veas
+[25May2025 01:14:09.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> pera
+[25May2025 01:14:13.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> okok
+[25May2025 01:17:21.046] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/16592, l='ServerLevel[world]', x=-1022.50, y=-28.00, z=6931.50] as it would cause deadlock
+[25May2025 01:17:22.346] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/16619, l='ServerLevel[world]', x=-1020.50, y=-56.00, z=6914.50] as it would cause deadlock
+[25May2025 01:17:24.985] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/16674, l='ServerLevel[world]', x=-1016.50, y=-28.00, z=6910.50] as it would cause deadlock
+[25May2025 01:17:29.408] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/16746, l='ServerLevel[world]', x=-1043.50, y=-28.00, z=6939.50] as it would cause deadlock
+[25May2025 01:17:34.541] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25May2025 01:17:38.077] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/17016, l='ServerLevel[world]', x=-1077.50, y=-53.00, z=6916.50] as it would cause deadlock
+[25May2025 01:17:38.078] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17018, l='ServerLevel[world]', x=-1077.50, y=-53.00, z=6924.50] as it would cause deadlock
+[25May2025 01:17:38.083] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17020, l='ServerLevel[world]', x=-1084.50, y=22.00, z=6921.50] as it would cause deadlock
+[25May2025 01:17:38.084] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17022, l='ServerLevel[world]', x=-1076.50, y=22.00, z=6921.50] as it would cause deadlock
+[25May2025 01:17:53.952] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[25May2025 01:19:05.090] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/17915, l='ServerLevel[world]', x=-1015.72, y=79.00, z=6872.37]
+[25May2025 01:19:16.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> oe rodolfo
+[25May2025 01:19:19.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q
+[25May2025 01:19:21.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tpeame ps
+[25May2025 01:19:27.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pera
+[25May2025 01:19:34.232] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18730, l='ServerLevel[world]', x=-1031.50, y=-41.00, z=6833.50] as it would cause deadlock
+[25May2025 01:19:42.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChupetinXD: Teleported Jorgepwe to ChupetinXD]
+[25May2025 01:20:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya explore por aqui
+[25May2025 01:20:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> etapa 4
+[25May2025 01:20:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tengo uno de etapa 5 xd
+[25May2025 01:20:30.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> terrible
+[25May2025 01:20:54.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-536, y=210, z=5038} BlockPos{x=-537, y=210, z=5039}
+[25May2025 01:20:55.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-536, y=210, z=5038} BlockPos{x=-537, y=210, z=5039}
+[25May2025 01:20:55.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-536, y=210, z=5038} BlockPos{x=-537, y=210, z=5039}
+[25May2025 01:20:55.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-536, y=210, z=5038} BlockPos{x=-537, y=210, z=5039}
+[25May2025 01:22:56.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Voluntary Exile]
+[25May2025 01:23:02.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/11312, l='ServerLevel[world]', x=4133.33, y=121.00, z=3343.74] died, message: 'Weaponsmith discovered the floor was lava'
+[25May2025 01:24:08.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> más al rato vengo
+[25May2025 01:24:12.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> anda avanzando
+[25May2025 01:24:20.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[25May2025 01:24:20.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[25May2025 01:24:20.212] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[25May2025 01:24:20.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya
+[25May2025 01:24:32.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:35557] logged in with entity id 22499 at (-202.91223584880524, 145.0, 4641.937252882371)
+[25May2025 01:24:33.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[25May2025 01:24:33.023] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[25May2025 01:24:33.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has reached the goal [Big Boy]
+[25May2025 01:24:46.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/17335, l='ServerLevel[world]', x=4101.58, y=121.00, z=3472.44] died, message: 'Toolsmith was slain by The Swarmer'
+[25May2025 01:24:59.421] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 01:25:03.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Timed out
+[25May2025 01:25:03.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[25May2025 01:25:03.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[25May2025 01:25:33.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> q fue
+[25May2025 01:25:44.764] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 01:25:44.765] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 01:26:27.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:41721] logged in with entity id 24891 at (-202.91223584880524, 145.0, 4641.937252882371)
+[25May2025 01:26:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[25May2025 01:26:27.964] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[25May2025 01:26:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 was slain by Krampus Henchman
+[25May2025 01:26:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 has made the advancement [Your First Grave]
+[25May2025 01:26:44.738] [Server thread/INFO] [tombstone/]: The player Papanoel_01 has successfully been saved
+[25May2025 01:26:57.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Timed out
+[25May2025 01:26:57.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[25May2025 01:26:57.997] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[25May2025 01:27:26.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papanoel_01[/127.26.184.6:46389] logged in with entity id 25593 at (-202.91223584880524, 145.0, 4641.937252882371)
+[25May2025 01:27:26.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 joined the game
+[25May2025 01:27:26.775] [Server thread/INFO] [Jade/]: Syncing config to Papanoel_01 (ee4d64c7-8460-3ee7-92ee-533f5bbdb0e4)
+[25May2025 01:27:55.541] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[25May2025 01:28:11.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papanoel_01 lost connection: Timed out
+[25May2025 01:28:11.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papanoel_01 left the game
+[25May2025 01:28:11.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papanoel_01
+[25May2025 01:28:12.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Best Friends Forever]

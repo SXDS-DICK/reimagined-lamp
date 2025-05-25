@@ -406,7 +406,10 @@
       "minecraft:forest": "2025-05-23 05:05:08 +0000",
       "minecraft:lush_caves": "2025-05-24 04:58:54 +0000",
       "minecraft:deep_cold_ocean": "2025-05-23 06:18:12 +0000",
+      "minecraft:frozen_ocean": "2025-05-25 01:04:52 +0000",
+      "minecraft:windswept_forest": "2025-05-25 01:02:01 +0000",
       "minecraft:ocean": "2025-05-23 05:19:18 +0000",
+      "minecraft:snowy_beach": "2025-05-25 01:03:18 +0000",
       "minecraft:frozen_peaks": "2025-05-23 06:35:30 +0000",
       "minecraft:deep_dark": "2025-05-23 16:20:49 +0000",
       "minecraft:meadow": "2025-05-23 06:57:05 +0000",
@@ -490,6 +493,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-25 01:22:38 +0000",
       "minecraft:skeleton": "2025-05-23 05:18:42 +0000",
       "minecraft:spider": "2025-05-23 05:13:16 +0000",
       "minecraft:creeper": "2025-05-23 04:49:44 +0000",
@@ -1913,7 +1917,8 @@
       "sweet_berries": "2025-05-23 06:44:09 +0000",
       "cooked_beef": "2025-05-23 05:01:14 +0000",
       "bread": "2025-05-23 05:32:34 +0000",
-      "golden_apple": "2025-05-24 04:00:38 +0000"
+      "golden_apple": "2025-05-24 04:00:38 +0000",
+      "golden_carrot": "2025-05-25 01:02:43 +0000"
     },
     "done": false
   },
@@ -6645,6 +6650,36 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-05-25 01:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-25 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-25 01:22:56 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-05-25 00:51:36 +0000"
@@ -6657,9 +6692,107 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-05-25 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-05-25 01:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:sweet_battle": {
+    "criteria": {
+      "sweet_battle_0": "2025-05-25 01:10:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-25 01:09:01 +0000",
+      "trickor_treat_6": "2025-05-25 01:09:27 +0000",
+      "trickor_treat_7": "2025-05-25 01:09:00 +0000"
+    },
+    "done": false
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-05-25 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-25 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-25 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-25 01:11:17 +0000"
     },
     "done": true
   },
