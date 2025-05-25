@@ -6991,57 +6991,45 @@
     },
     "done": true
   },
-  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
-    "criteria": {
-      "has_witherbone": "2025-05-25 21:42:13 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-05-25 20:23:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-05-25 21:42:12 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
-    "criteria": {
-      "has_witherbone": "2025-05-25 21:42:13 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-05-25 19:54:25 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/misc/witherbone_pole_from_string": {
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
-      "has_witherbone": "2025-05-25 21:42:13 +0000"
+      "has_item": "2025-05-25 19:54:25 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
-      "coded_trigger": "2025-05-25 20:19:51 +0000"
+      "has_item": "2025-05-25 19:54:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-05-25 19:54:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-25 19:54:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-25 20:00:33 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nicehousebro": {
+    "criteria": {
+      "nicehousebro_0": "2025-05-25 20:02:07 +0000"
     },
     "done": true
   },
@@ -7057,35 +7045,11 @@
     },
     "done": true
   },
-  "spartanfire:recipes/misc/witherbone_handle_from_string": {
-    "criteria": {
-      "has_witherbone": "2025-05-25 21:42:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-25 21:07:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-05-25 20:23:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-25 20:02:14 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
@@ -7093,155 +7057,11 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-25 21:07:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-05-25 19:54:25 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/redstone_illuminator": {
-    "criteria": {
-      "has_redstone": "2025-05-25 20:23:43 +0000"
-    },
-    "done": true
-  },
-  "vintagedelight:main/harvest_salt": {
-    "criteria": {
-      "harvest_salt": "2025-05-25 21:44:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-05-25 20:59:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-25 20:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-05-25 20:23:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-05-25 21:07:13 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:nicehousebro": {
-    "criteria": {
-      "nicehousebro_0": "2025-05-25 20:02:07 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
-  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
-    "criteria": {
-      "has_witherbone": "2025-05-25 21:42:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-05-25 20:23:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
   "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-25 20:02:14 +0000"
     },
     "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2025-05-25 19:54:25 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
-    "criteria": {
-      "has_witherbone": "2025-05-25 21:42:13 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:milk": "2025-05-25 21:07:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-05-25 20:23:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-05-25 20:00:33 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -7255,33 +7075,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-25 20:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-05-25 21:05:59 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_item": "2025-05-25 20:02:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 21:48:24 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/altimeter": {
-    "criteria": {
-      "has_redstone": "2025-05-25 20:23:43 +0000"
     },
     "done": true
   },
@@ -7291,21 +7087,123 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-25 20:12:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 20:14:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-25 20:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-25 20:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-25 20:23:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-05-25 20:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-25 20:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-25 20:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-25 20:23:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-05-25 20:23:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-25 20:23:43 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_dragonscales_amythest": "2025-05-25 19:54:25 +0000"
+      "has_redstone": "2025-05-25 20:23:43 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "avoid_vibration": "2025-05-25 20:12:22 +0000"
+      "double_trouble_0": "2025-05-25 20:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-25 21:05:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 21:07:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 21:07:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-25 21:07:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2025-05-25 21:07:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-25 21:42:12 +0000"
     },
     "done": true
   },
@@ -7315,15 +7213,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
     "criteria": {
-      "has_item": "2025-05-25 19:54:25 +0000"
+      "has_witherbone": "2025-05-25 21:42:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
     "criteria": {
-      "has_redstone": "2025-05-25 20:23:43 +0000"
+      "has_witherbone": "2025-05-25 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-05-25 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-05-25 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-05-25 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-05-25 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/harvest_salt": {
+    "criteria": {
+      "harvest_salt": "2025-05-25 21:44:38 +0000"
     },
     "done": true
   },
