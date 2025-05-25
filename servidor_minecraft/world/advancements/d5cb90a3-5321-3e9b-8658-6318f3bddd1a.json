@@ -7086,77 +7086,53 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
+      "has_item": "2025-05-25 19:42:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
+      "has_item": "2025-05-25 19:42:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
+      "has_item": "2025-05-25 19:43:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
+      "has_item": "2025-05-25 19:54:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
+      "has_item": "2025-05-25 19:54:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
+      "has_item": "2025-05-25 19:54:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
+      "has_dragonscales_amythest": "2025-05-25 19:54:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
+      "has_item": "2025-05-25 19:54:25 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 20:26:24 +0000"
-    },
-    "done": false
+    "done": true
   },
   "spartanfire:recipes/lightning_dragon_bone_parrying_dagger": {
     "criteria": {
@@ -7200,21 +7176,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2025-05-25 19:54:25 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/lightning_dragon_bone_longbow": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-25 19:55:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-05-25 20:15:49 +0000"
     },
     "done": true
   },
@@ -7254,27 +7218,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-05-25 19:54:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-25 20:04:20 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-25 19:55:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
-    "criteria": {
-      "has_ward_armor_trim_smithing_template": "2025-05-25 20:04:20 +0000"
     },
     "done": true
   },
@@ -7302,51 +7248,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2025-05-25 19:54:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-05-25 19:42:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-05-25 19:42:59 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-25 20:19:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
-    "criteria": {
-      "has_item": "2025-05-25 19:43:58 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:legendaryweapon": {
-    "criteria": {
-      "legendaryweapon_0": "2025-05-25 20:25:40 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/lightning_dragon_bone_warhammer": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-25 19:55:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-05-25 19:54:25 +0000"
     },
     "done": true
   },
@@ -7359,12 +7263,6 @@
   "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-25 19:55:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-25 19:54:25 +0000"
     },
     "done": true
   },
@@ -7385,6 +7283,42 @@
       "has_lightning_dragon_blood": "2025-05-25 19:55:43 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-25 20:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-05-25 20:04:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-05-25 20:15:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-25 20:19:40 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-05-25 20:25:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-05-25 22:34:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

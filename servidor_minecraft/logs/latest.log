@@ -947,3 +947,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [25May2025 22:18:49.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Disconnected
 [25May2025 22:18:49.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
 [25May2025 22:18:49.695] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[25May2025 22:32:01.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.192.51.244:55349] logged in with entity id 81370 at (-257.86765184828124, 156.0, 4687.17614604888)
+[25May2025 22:32:01.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[25May2025 22:32:01.670] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[25May2025 22:32:02.499] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jorgepwe (18)
+[25May2025 22:32:02.499] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jorgepwe
