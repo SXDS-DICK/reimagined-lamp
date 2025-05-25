@@ -6452,9 +6452,27 @@
     },
     "done": true
   },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-05-25 00:17:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-05-25 00:08:17 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-05-25 00:17:53 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-05-25 00:17:45 +0000"
     },
     "done": true
   },
