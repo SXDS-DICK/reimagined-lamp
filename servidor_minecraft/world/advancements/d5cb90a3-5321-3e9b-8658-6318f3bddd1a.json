@@ -6527,78 +6527,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 17:58:42 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2025-05-24 05:01:30 +0000"
@@ -6629,13 +6557,17 @@
     },
     "done": true
   },
-  "tconstruct:foundry/plate_armor": {
+  "undead_revamp2:theundeadchallenges": {
     "criteria": {
-      "crafted_leggings": "2025-05-24 17:56:43 +0000",
-      "crafted_helmet": "2025-05-24 17:57:07 +0000",
-      "crafted_chestplate": "2025-05-24 17:53:41 +0000"
+      "theundeadchallenges_0": "2025-05-24 17:36:54 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-05-24 17:36:54 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
@@ -6646,50 +6578,6 @@
   "tconstruct:recipes/misc/common/tinkers_gadgetry": {
     "criteria": {
       "has_item": "2025-05-24 17:42:24 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:theundeadchallenges": {
-    "criteria": {
-      "theundeadchallenges_0": "2025-05-24 17:36:54 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/melter": {
-    "criteria": {
-      "seared_faucet": "2025-05-24 17:53:36 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/misc/common/slime/earth/crystal_growing": {
-    "criteria": {
-      "has_dirt": "2025-05-24 17:44:11 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/make_part": {
-    "criteria": {
-      "crafted_part": "2025-05-24 17:56:24 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-05-24 17:36:54 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/tool_forge": {
-    "criteria": {
-      "broad_axe": "2025-05-24 17:51:17 +0000",
-      "excavator": "2025-05-24 17:51:17 +0000",
-      "sledge_hammer": "2025-05-24 17:51:17 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:world/sky_island": {
-    "criteria": {
-      "found_island": "2025-05-24 17:44:06 +0000"
     },
     "done": true
   },
@@ -6705,6 +6593,26 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-05-24 17:44:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-05-24 17:44:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "broad_axe": "2025-05-24 17:51:17 +0000",
+      "excavator": "2025-05-24 17:51:17 +0000",
+      "sledge_hammer": "2025-05-24 17:51:17 +0000"
+    },
+    "done": false
+  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2025-05-24 17:51:17 +0000"
@@ -6716,6 +6624,26 @@
       "slimesteel": "2025-05-24 17:51:17 +0000"
     },
     "done": false
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_faucet": "2025-05-24 17:53:36 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2025-05-24 17:56:43 +0000",
+      "crafted_helmet": "2025-05-24 17:57:07 +0000",
+      "crafted_chestplate": "2025-05-24 17:53:41 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-05-24 17:56:24 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
